@@ -1,0 +1,3010 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200427003527
+Username: DESKTOP-I85AUMO\Craken
+RunAs User: DESKTOP-I85AUMO\Craken
+Configuration Name: 
+Machine: DESKTOP-I85AUMO (Microsoft Windows NT 10.0.18363.0)
+Host Application: PowerShell.exe -noexit -command Set-Location -literalPath 'E:\Programming\Machine Learning\Reddit Comment Generator'
+Process ID: 10340
+PSVersion: 5.1.18362.752
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.752
+BuildVersion: 10.0.18362.752
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\transcript.txt
+PS E:\Programming\Machine Learning\Reddit Comment Generator> python .\Roastme_insult_generator.py
+***** Generating with seed: "------
+[word cloud out of all the commen"
+------
+[word cloud out of all the comments.
+---------
+not addiction so and man you like skink the other
+---------
+there's film because i think your famele.
+---------
+no'se brught it is must not she really mean spited would end hide through high
+ ass on one clesk rogame.
+---------
+you look like the alabama ider with the newdustive.
+---------
+you look like an transfails the wears muchoe hey, i can i’m so you did he stil
+l have to roast you
+***** diversity: 1.2
+***** Generating with seed: "------
+[word cloud out of all the commen"
+------
+[word cloud out of all the comments.
+---------
+how do wato to it, which not useerg.
+---------
+heilmheps whh do you ruck ssdedarman yets on, your paraon infection
+---------
+it come hol, orkergus.
+---------
+iverteenh has a doinbt22yole pajim out, don't jofw on fetcitia in just bernthe
+n already barroptarn
+---------
+you look like this house john
+---------
+so your personality everything you’ve have holding out of wig kind
+---------
+he
+Epoch 17/60
+1666654/1666654 [==============================] - 1000s 600us/step - loss: 1.
+2123
+
+***** Generating text after Epoch: 16
+***** diversity: 0.2
+***** Generating with seed: "’t just stop at the eyebrows, go all the"
+’t just stop at the eyebrows, go all the same time in the back to the comments
+ and all the part of your face is a shit from the same time.
+---------
+you look like you could be the only thing the same time the time the shirt is
+the being a face of your face on a week the time the love that you are a real
+life is that you will be a down and the only thing the fact that you can see t
+he group and the only thing the comments are a seeing the
+***** diversity: 0.5
+***** Generating with seed: "’t just stop at the eyebrows, go all the"
+’t just stop at the eyebrows, go all the baby things on the time i wouldn't st
+art good look at the compased because you can say i think you can never say a
+get a problem to the man with the hair to make that hair so she didn't want to
+ look like if you got to find a disorder
+---------
+you look like a shrek mossist, on your face was had a month.
+---------
+you look like the part of an easy a picture from the back have for a homeless
+with a
+***** diversity: 1.0
+***** Generating with seed: "’t just stop at the eyebrows, go all the"
+’t just stop at the eyebrows, go all the dudes and look like a brother, nailed
+ was the used you.
+---------
+you must be the only test.
+---------
+you look like another leagu, but pic in that mentic aservy dead...?
+---------
+locks ficser?
+---------
+your face wants to take your selfie posise
+---------
+those and rudanima, keep the walls smart with an abortion up dropted for melea
+
+---------
+you just of a cute piner, school, is thing to still
+***** diversity: 1.2
+***** Generating with seed: "’t just stop at the eyebrows, go all the"
+’t just stop at the eyebrows, go all the psty don’t fake you
+---------
+no they won't go othee. bl'we bowgen to buy mbdix-yellosn, no one more fuckred
+ multimiss
+---------
+you'd have never shirtlier.
+---------
+also my basement, wait whose people at a himle.
+---------
+what's harry a wdte white without twin
+---------
+
+ hair school
+---------
+you look do just had enough off a cdologiarn, fake frue twin
+---------
+you've   and stuffed gorman. i
+Epoch 18/60
+1666654/1666654 [==============================] - 1001s 601us/step - loss: 1.
+2108
+
+***** Generating text after Epoch: 17
+***** diversity: 0.2
+***** Generating with seed: "w can you lose your virginity to your mo"
+w can you lose your virginity to your mom than you that ask your face and the
+only reason that you look like a little and the fuck of the loves of your face
+ is so she can see you are a self and the only thing you have the comments and
+ the pic of your face is the career to see that the only thing you can see you
+r face and the grandma was a face and start that you are a stranger than your
+face.
+---------
+you look like a girl in the back t
+***** diversity: 0.5
+***** Generating with seed: "w can you lose your virginity to your mo"
+w can you lose your virginity to your mouth.
+---------
+if you can start for someone who already see your future and bunger when you c
+ould up with the polital has a working to be a stereotydes of a lot of the men
+tic good thing you’re so people were the pimple better than your parents and b
+eing a little last to tell you have to see that the college button
+---------
+you look like a long on your parents and a completely compared to get a se
+***** diversity: 1.0
+***** Generating with seed: "w can you lose your virginity to your mo"
+w can you lose your virginity to your most ugus medomagay
+---------
+i think you think, that's that nect
+---------
+you from heap yourself vituted and missed all your libern', self and off and s
+it iut to -ruiring to its?
+---------
+accine. the handst will nights less looks like she’s posting hodwer
+---------
+you neoe-saryh you after wearing flome.
+---------
+the times on fuckin called to ?
+---------
+you want ronert faces boying accosi to la
+***** diversity: 1.2
+***** Generating with seed: "w can you lose your virginity to your mo"
+w can you lose your virginity to your mouth wemdap.
+---------
+how many sethorh wroket, you look like he gets biofin with unthrover fucking y
+earcallers?
+---------
+i believe u if mogeopenaces.
+---------
+trash than you are dony.
+---------
+yangback alihama to ass ticking you as well mathhy those crimping?
+---------
+1 ug5arpumip
+---------
+your bless.
+---------
+oplanue rbom ibroc?
+---------
+you look past that he haincher though.
+---------
+hah
+Epoch 19/60
+1666654/1666654 [==============================] - 999s 600us/step - loss: 1.2
+096
+
+***** Generating text after Epoch: 18
+***** diversity: 0.2
+***** Generating with seed: "them, because offering you as the sacrif"
+them, because offering you as the sacrifices and i was a bad face in the first
+ time that shit on the same time that you are a female with your face is a str
+anger than you all the comments and the only thing that you are a starting the
+ straight to the first thing you are a car we can be the guy of a self and the
+ only thing you look like a character that you look like a shit in the back to
+ your face is a bad because you can be a good way
+***** diversity: 0.5
+***** Generating with seed: "them, because offering you as the sacrif"
+them, because offering you as the sacrify. you look like a people would be a t
+eeth to your personality and a hair is done that start face with the changed t
+o your hair looks like a stranger things and you are a mental the other school
+ but the most is the little if you think you were a hair is stated and have a
+face on the tits a pornstared to the poster than your sister to start and have
+ a stranger than only thing you’re the only second
+***** diversity: 1.0
+***** Generating with seed: "them, because offering you as the sacrif"
+them, because offering you as the sacrifus theyolice.
+---------
+someone, the only thing communitylessish camera bad i could don’t less like do
+wn and regrew it at the term
+---------
+it was door acay nessed crilly ceraation.
+---------
+your weak i have gonna make you to be
+---------
+how well the lchando please already huntio
+---------
+fucking gad eyebrows croweg rece's hold that version of neither on my marryan-
+of years?
+---------
+this is
+***** diversity: 1.2
+***** Generating with seed: "them, because offering you as the sacrif"
+them, because offering you as the sacrifly taking your
+---------
+those r9.ubion’s celements could be orgusting on.
+---------
+1ro cut his big , day one empty about you cadd approda?iperphe's see
+---------
+you prograds tay off ah in herself the pp nowdiste,
+---------
+her facebasia head the dicklasian to always treaton.
+---------
+2ucio
+---------
+n'w a why
+---------
+from stears at bealllobs writts couldn't worryly rezi'in thebom encems! jus
+Epoch 20/60
+1666654/1666654 [==============================] - 1000s 600us/step - loss: 1.
+2084
+
+***** Generating text after Epoch: 19
+***** diversity: 0.2
+***** Generating with seed: "aste.
+---------
+what a sad sad unicorn, "
+aste.
+---------
+what a sad sad unicorn, the only thing you look like a part of the back and ha
+ve a prostitute of the same time the fuck is the sex offender
+---------
+you look like a comments are a child of a down to your life and the only thing
+ you are a personality and a porn thing in the post and the basement and the p
+art of the same time the same time the bad and the personality is the compared
+ to the girl that the only thing the wor
+***** diversity: 0.5
+***** Generating with seed: "aste.
+---------
+what a sad sad unicorn, "
+aste.
+---------
+what a sad sad unicorn, do you also like the actual and here is so that her lo
+oks like the thing you want to see that your face is an affirit and you are st
+ory for your hair
+---------
+you look like a wallard of a roast me and look like you are the only reason an
+d a dude. and harry potter that is more actually such an all the bigger than y
+our face and a pretty breaking your steal for the same thing you have the pers
+onalit
+***** diversity: 1.0
+***** Generating with seed: "aste.
+---------
+what a sad sad unicorn, "
+aste.
+---------
+what a sad sad unicorn,
+... was one in a funia job you are ex vers orege
+---------
+i'd put my u do you belot yoj?
+---------
+you look like the satelul let him a glass feel fucking twin life adplately unc
+le of one todd. how you look like a viridie is a free larsy
+---------
+i you can ghowbisput, steplet the stlip time.
+---------
+yeah, but the neckondan are wit centr, whoover clean turceled
+---------
+you look like my room t
+***** diversity: 1.2
+***** Generating with seed: "aste.
+---------
+what a sad sad unicorn, "
+aste.
+---------
+what a sad sad unicorn, there’s you the hot were moter angary.
+---------
+have to way it tert infestaiate what you or just your phases
+---------
+with that crea?igregs, iftbt more coiened too
+---------
+apso undis my shit even 2wings for oild, or!
+i meat caippenticls that useless damse.
+---------
+we are attractive life coffeen up they... at least basement conenesernch.
+---------
+you. she uncleargosh?
+---------
+poor? allho,
+Epoch 21/60
+1666654/1666654 [==============================] - 1000s 600us/step - loss: 1.
+2074
+
+***** Generating text after Epoch: 20
+***** diversity: 0.2
+***** Generating with seed: " up dolls are looking less and less life"
+ up dolls are looking less and less life and the only thing you should see you
+r face looks like a bad and the only thing the only thing you should be a stra
+nger than a female that should be a bad and the only thing the same time the o
+nly thing you look like a picture of the same time the comments and the sex ch
+ange in the part of the post and she was a seeing your face is the sex change
+and the doctor with the looks of the comments and
+***** diversity: 0.5
+***** Generating with seed: " up dolls are looking less and less life"
+ up dolls are looking less and less life.
+---------
+you look like a butt shower to have a parents and have a face for the loves.
+---------
+you look like you are the time the fact that your bangs look like a parents in
+ the only thing you do that a divorce of your chin in your eyes and should hav
+e pedophile is the time they look like you take the stripper and here with you
+r single man is honest.
+---------
+you look like a baby and that bit
+***** diversity: 1.0
+***** Generating with seed: " up dolls are looking less and less life"
+ up dolls are looking less and less life, i.ander onemract hairlink off the sh
+it of your face. well you're thinking sense
+---------
+yeadle openem was more transplant negapt blowk held?
+---------
+one eves seoonejast rract in your short turned cancer.
+then you ever say a persons 'tothlle good partsy thererat you're giel acaan.
+---------
+what a person jobs’s been . we look better. vir.
+---------
+you like your man in trying to lose anjoamb
+***** diversity: 1.2
+***** Generating with seed: " up dolls are looking less and less life"
+ up dolls are looking less and less life, from the shame-haddstort enough moth
+er?
+---------
+well you has test genes?
+--mbby
+---------
+killed by beggning to stice but adirugy redidpring face.... oc.nepgying su. ht
+...njp
+---------
+canorg, buzz. i  aetrytabled.
+---------
+ you gotta want to be pussy do johnion is to too games within an hility water
+---------
+i i'm pradetal dark you did.!?
+
+whnybacea tr. nike on witching romele.
+---------
+ho
+Epoch 22/60
+1666654/1666654 [==============================] - 1002s 601us/step - loss: 1.
+2064
+
+***** Generating text after Epoch: 21
+***** diversity: 0.2
+***** Generating with seed: "crossing the border. also i’m dragon bor"
+crossing the border. also i’m dragon born and the title considering you and sh
+e was a person who still look like a face is a good thing you are a hair is a
+stereotype to start better than your eyes are a comments and show you started
+a stranger than a shit on the part of your face is the and of the only thing y
+ou are a problem and the post on the back in the back to make a shit and the o
+nly thing you look like a back and the same a brot
+***** diversity: 0.5
+***** Generating with seed: "crossing the border. also i’m dragon bor"
+crossing the border. also i’m dragon born to be in a camera you have to stay a
+ little to convert the comments you have a picture to try to put the one that
+you are a hair is your face is probably the boyfriend is go thought that you a
+re still like the shitty boy from the only thing you look like if you didn’t h
+ave to have a cats from dude in the face in your tits and comment on the sugge
+st that.
+---------
+you look like a big money as a
+***** diversity: 1.0
+***** Generating with seed: "crossing the border. also i’m dragon bor"
+crossing the border. also i’m dragon border
+
+edit: probably premerating instead of them was to the interesting to couldn't
+got a relationship because thvyyothees you still try long
+---------
+we know you’d be very she just from to kill rock life
+---------
+you uedravally pretty vittine will have a flat pete of worff issues
+---------
+what halicgex? those times of call in the ground out away from cancer.
+---------
+who found a hot personali
+***** diversity: 1.2
+***** Generating with seed: "crossing the border. also i’m dragon bor"
+crossing the border. also i’m dragon borders.
+---------
+your eyes say of a neighboor and wt comstard cellugs who ever few preduting fo
+rtaof in a baw
+---------
+bondmely life maybe and.
+---------
+itelai pupping in’ve imperson it gan opyboob?
+---------
+it's thought your damfitiru!in wst from fit to phyn’t tere?
+---------
+tho. almost legrting monson your fruy
+---------
+i
+---------
+oh survitx foc god retleckition neer tran who all where that
+Epoch 23/60
+1666654/1666654 [==============================] - 1000s 600us/step - loss: 1.
+2054
+
+***** Generating text after Epoch: 22
+***** diversity: 0.2
+***** Generating with seed: "e wingdings font were a person
+---------"
+e wingdings font were a person
+---------
+you look like you have to be a disappointment to have a shows you are the only
+ thing you are a bad in the sex offender. i have a shit that is the first time
+ i think you don't want to be a new that you still say the basement and the on
+ly thing you have the back to say that you look like a shit in the back and th
+e only thing you look like a picture of the same time.
+---------
+you look like a shower
+***** diversity: 0.5
+***** Generating with seed: "e wingdings font were a person
+---------"
+e wingdings font were a person
+---------
+you look like the man is the one down the stupid here would have still anyone
+else wants to start a boy for the clothes on the mat? you look like a post con
+cerver was a shit really take you the one that she looks like a parents say it
+ was being a seriously is someone who looks like the easy.
+---------
+even your eyebrows look like a from the other shot on your ass in the painting
+ right and the fac
+***** diversity: 1.0
+***** Generating with seed: "e wingdings font were a person
+---------"
+e wingdings font were a person
+---------
+you look like you took a little dearte wew, a tindery epropmen's take more of
+you.
+---------
+you look like you find a silitia making ferk is opion. thank you!
+---------
+how does sooe the startion is as crows ..... maybe it's not even vucia scars
+---------
+i think you're come right
+---------
+her girl jobs jawlelf with her closet a big uniunt.
+---------
+hahahahahahahahx way you looking at the recam
+***** diversity: 1.2
+***** Generating with seed: "e wingdings font were a person
+---------"
+e wingdings font were a person
+---------
+you've are my wife ginger. and lost move.
+---------
+when i could noticing mental ntma...you long just from at.... nyf your face br
+o, you play curway so just jacket wear who roast, much out, devont woute faces
+ goeconty.
+---------
+discrack you, the they head lusine is eyebrows.. ir are crullyrs?
+---------
+ this linglegan rich day. dolly jim compute.
+---------
+i've also only a doounkcvese manniwaff,
+Epoch 24/60
+1666654/1666654 [==============================] - 1002s 601us/step - loss: 1.
+2044
+
+***** Generating text after Epoch: 23
+***** diversity: 0.2
+***** Generating with seed: "omeone owes you a refund.
+---------
+why "
+omeone owes you a refund.
+---------
+why do you have to be a self and start and the hair to still say the only thin
+g you look like a career the horror and have a good with a lot of and stop to
+be a doctor to see your hair is the picture to the park to see that it would b
+e the same time and the man is the post on the sense that you should start you
+r parents and the guy of a child of a shit on the comments and she was a perso
+n and a shit t
+***** diversity: 0.5
+***** Generating with seed: "omeone owes you a refund.
+---------
+why "
+omeone owes you a refund.
+---------
+why the worst of the only thing the other here for the back before i think tha
+t you should took a real creation comment is the back to be does.
+---------
+the side that you make skill for a cap from your second in a career but where
+the title your crisis and you want you of your forehead.
+---------
+you look like people do you put that shit out and meth career but because you
+think i don't need to be so
+***** diversity: 1.0
+***** Generating with seed: "omeone owes you a refund.
+---------
+why "
+omeone owes you a refund.
+---------
+why do you ever ogg.
+---------
+you look like you wait to you're have stuck butter just particiuur had idiotiv
+er.
+---------
+fellowan bottpegory.
+---------
+you look like some, you got the in crack!
+---------
+oh
+---------
+feeling i’m pretty sure he oll writes a rings dressed you.
+---------
+i think you possibly techei you alonge, your sloued dont shere of one and fix
+the caption and self haircut scared in
+***** diversity: 1.2
+***** Generating with seed: "omeone owes you a refund.
+---------
+why "
+omeone owes you a refund.
+---------
+why preduy aman''s verina you ffirst wi-h dick
+---------
+his bootyra from weird not...theyxgoster condom birt. et, call eh
+---------
+medamoxicahis they ..ama?
+---------
+the cross event to sisch if their jobi
+
+.lroever with
+---------
+he look is not fuck that you do fam. you'll have were blfne, sport.
+---------
+ you're seeson neighh'bal.
+---------
+i wasn right girl person
+---------
+you got tee living c
+Epoch 25/60
+1666654/1666654 [==============================] - 1003s 602us/step - loss: 1.
+2038
+
+***** Generating text after Epoch: 24
+***** diversity: 0.2
+***** Generating with seed: "count as donation
+---------
+i hope you d"
+count as donation
+---------
+i hope you do the same time the back to the sign in the back of a baby with th
+e same time.
+---------
+you look like the type of guy who still don't start with the second things tha
+t you were a lot of the comments and start as a self and the only thing you sh
+ould be a roast the post and the support of a child of a self-ential could be
+the only thing you have to be a stuck out of the real student and the only th
+***** diversity: 0.5
+***** Generating with seed: "count as donation
+---------
+i hope you d"
+count as donation
+---------
+i hope you do the first short milk you starting his mom than you and because i
+ was an on reason that you're like the talling the compliments and smaller.
+---------
+you look like you should all get to leave your head with your parents are meth
+ in the back on your shit your eyes and it was a single because i was your par
+ents have to be supposed to be like a more about to come out of the same mate
+black or a bal
+***** diversity: 1.0
+***** Generating with seed: "count as donation
+---------
+i hope you d"
+count as donation
+---------
+i hope you didmit of posits
+---------
+if no mum hair?
+---------
+even the lun or can't tell the frssemelly sunapp
+---------
+mentall look like a kid, it thathamn
+---------
+if you're a poor.
+---------
+cant smell prietine.
+---------
+did you puhbet are roast people in plysondracts godegdis
+---------
+she looks like a breakeass
+---------
+nki happy to roast besian
+---------
+https:www.rross from the dit
+---------
+---
+***** diversity: 1.2
+***** Generating with seed: "count as donation
+---------
+i hope you d"
+count as donation
+---------
+i hope you didn’t showering of finger to pick othcomo offish that bitcomc.  ce
+iting if common's like a bulnworno.
+---------
+maybe ur wored enough hope iin i's megidep you sx  or had roast..!ycujybbyciy
+love of centrojy, rapple
+---------
+mwhey sad tear still best check.
+---------
+lesintly that you're shut the beingle our sor it
+---------
+you sheuped mom i amard!
+---------
+i've stevent to kids?
+---------
+if mik
+Epoch 26/60
+1666654/1666654 [==============================] - 1021s 613us/step - loss: 1.
+2031
+
+***** Generating text after Epoch: 25
+***** diversity: 0.2
+***** Generating with seed: "e wants to be roasted? brave..
+---------"
+e wants to be roasted? brave..
+---------
+you look like a shit on the post a better than your face and the rest of your
+face will be a shit to your face and the only thing you are so bad because you
+ can see your face is the only thing you are so back to the compliment the fac
+t that you got a self with the part of your face of the back of a comments and
+ the only thing you think you should be a sended the same time and make you a
+desperate
+***** diversity: 0.5
+***** Generating with seed: "e wants to be roasted? brave..
+---------"
+e wants to be roasted? brave..
+---------
+you look like the michael are the please meth in his own as well.
+---------
+you look like a legs back of a bottle of the fucking bad for that shaped that
+the parents can you sure that good does the first time you did the team was a
+really character that you got part of not a brain of a girl who can you are a
+face.
+---------
+you look like a the shirt is the only thing i can see that you can start
+***** diversity: 1.0
+***** Generating with seed: "e wants to be roasted? brave..
+---------"
+e wants to be roasted? brave..
+---------
+you look like you have pink off too condom more.
+---------
+you'll look ertoli.
+---------
+the sexual roast you isn't a haircut, but it dress you they says pup there...a
+nd you look like an dofwing in him
+---------
+look like now shit lord
+---------
+the maid court’s edbitally poon first face.
+---------
+,  she never harfigination musi- on him. i've even shy roasts the fingers  her
+e you'd smell deleft
+***** diversity: 1.2
+***** Generating with seed: "e wants to be roasted? brave..
+---------"
+e wants to be roasted? brave..
+---------
+do just great. consting or ransonterising?
+---------
+well loss inxoted fly of your house
+---------
+your nerm
+
+is those and in the because the fact me can’t coll meats that reportspien defi
+tiinnwdvers scot?
+---------
+i’s gonna could do about the mission opporitioned of recats on teach a saicor’
+s subcemo centooo ray ino the unlien 4r0 a greek intervaitionating, but it wha
+t one of thpsray, good wil
+Epoch 27/60
+1666654/1666654 [==============================] - 1024s 614us/step - loss: 1.
+2022
+
+***** Generating text after Epoch: 26
+***** diversity: 0.2
+***** Generating with seed: "------
+did you shave your unibrow before"
+------
+did you shave your unibrow before you are the only thing you have to start for
+ the same time in the first time you are a baby with a shows and the part of t
+he career to be a baby than your face.
+---------
+you look like a part of the completely comments and the only thing you look li
+ke the sex story and the only thing the only thing the comments would be a bit
+cher than your face.
+---------
+you look like a second they could be a gi
+***** diversity: 0.5
+***** Generating with seed: "------
+did you shave your unibrow before"
+------
+did you shave your unibrow before who has a real the guy and beatally get to b
+e a line you so why the long back to people who should have a finally suck in
+the sun and swiss but attractive to it to be some part of your porn and days i
+s the back to be a cat dollar of people to the least the top of the girl in he
+r eyebrows and still been as your face is a new who did you look like you stil
+l get a roast people which that i have a fa
+***** diversity: 1.0
+***** Generating with seed: "------
+did you shave your unibrow before"
+------
+did you shave your unibrow before he wants no would be burn
+---------
+i'm surprised you does suitings stop so who hold foots on jehngars...
+---------
+you’re their blusties and
+---------
+if ka nice mannable is protest of your pussy
+---------
+did a esgeal and whatws rapping gacked something in kurcode.
+---------
+you look like a right the only under fucked in personal both
+---------
+ irlz masturbible then if a lip never get pink sp
+***** diversity: 1.2
+***** Generating with seed: "------
+did you shave your unibrow before"
+------
+did you shave your unibrow before, the in uncoke him a back.
+---------
+cus studh!with zert amage to this of holly. out. i have and tumn '
+---------
+youqugf are fingers fuck.
+---------
+i'd petcingle as unigg things, bigger reddit flandaphy.
+---------
+more wearing the geaf ot grehers goesdender
+---------
+she is to sirty looks like this or 2 festuon hell
+---------
+not your diegehsec. i will have a porno
+---------
+lo'stlegz phys
+----
+Epoch 28/60
+1666654/1666654 [==============================] - 1096s 657us/step - loss: 1.
+2016
+
+***** Generating text after Epoch: 27
+***** diversity: 0.2
+***** Generating with seed: "------
+this guy gets dick pill ads
+----"
+------
+this guy gets dick pill ads
+---------
+you look like the prostitute to be a baby because you look like a career beat
+that you are a single the fuck and see the second that you are a completely be
+en and she looks like a bad because you have to start shit on the same assic a
+nd the only thing that you look like you have a face in the back to the side o
+f the same time that you are a shit and see that you still get a bad life and
+the
+***** diversity: 0.5
+***** Generating with seed: "------
+this guy gets dick pill ads
+----"
+------
+this guy gets dick pill ads
+---------
+if they say a guy who would be an improvement.
+---------
+you look like a white but i am breather. to your face just to have the guy of
+a bottom life accidentally start and i am a markay that happened to start and
+the best basement and her boyfriend like a lesbian as a proosmout of a barbal
+you desperately and the shot hard to see your basement and the only thing your
+ boyfriend stop the degre
+***** diversity: 1.0
+***** Generating with seed: "------
+this guy gets dick pill ads
+----"
+------
+this guy gets dick pill ads
+---------
+in a zer ro's ... addicty to beating a fuck
+---------
+if the farch as and as a placks asliut when they know more day with apartphial
+ other of it.
+---------
+if worth in please less thinks th2 troucious the entit? i
+---------
+you even fifured the tip anyherd in that hole away from it. so you probably be
+ your searng me jamoo for the ve.
+---------
+you went up waitings?
+---------
+theyy have he
+***** diversity: 1.2
+***** Generating with seed: "------
+this guy gets dick pill ads
+----"
+------
+this guy gets dick pill ads
+---------
+hold kitside inspined themmugegines like me rom's paler in andic adplwelt, i w
+ould be a meit gave into a long video you also only look so shreing to ourcuse
+dred flartards. godny, brin iddoy.
+---------
+so that’s whity  ablestaims,  that’s fle
+---------
+pite a daniel 'soal
+---------
+conversaures lave look from away from female d9ar 1r'h-? how much that his mot
+her that is dooos. i'm head, this
+Epoch 29/60
+1666654/1666654 [==============================] - 1329s 797us/step - loss: 1.
+2010
+
+***** Generating text after Epoch: 28
+***** diversity: 0.2
+***** Generating with seed: "om
+---------
+a horse walks into a bar. p"
+om
+---------
+a horse walks into a bar. probably the girl and the only thing you look like a
+ character that you look like a probably the only thing you were a better was
+a part of the second in the back of a sex with your mom on the post and the on
+ly thing you should be a bad and got a bad and the same time the fuck a sense
+at the same time.
+---------
+you look like a personality with the surgery some shower than your face for a
+shit and
+***** diversity: 0.5
+***** Generating with seed: "om
+---------
+a horse walks into a bar. p"
+om
+---------
+a horse walks into a bar. pictures who has a dead in the basement is making th
+e tits in the first side at least paying to wear your cat because you say in t
+he wall and you thought you started sex with you.
+---------
+you look like you she was disappointed and the fucking good looks like an armp
+it of the crap on your matches and you can be disappointed to support your for
+ehead and the good hair shitty clearly the face and the
+***** diversity: 1.0
+***** Generating with seed: "om
+---------
+a horse walks into a bar. p"
+om
+---------
+a horse walks into a bar. paker, that potato. conal sub-p you’re not on your e
+nough!
+---------
+ohh woody that you look like you say thing why i'd eves have the first thing y
+ou just claim young of your mum just of girl though...     moving being taken
+and the marking his hair us fext, have a picture for guys.
+---------
+just giant in a doctor. because you smell age.
+---------
+you look like a good late so from fun with the bes
+***** diversity: 1.2
+***** Generating with seed: "om
+---------
+a horse walks into a bar. p"
+om
+---------
+a horse walks into a bar. put life of her hairlchise rimp befit
+---------
+you look like a job in is boen megain a plapnred bud.
+---------
+pierk, they ani alsed goodaws' iblone. editch, just beat these
+---------
+hey to used you kind of channel fullnivionalt.     this is trans roke hairxcer
+ble fire ----mony of the dub job grandfolos they’d see when you're inplanden u
+ end pervy
+---------
+some weekging leglitera isny world of a
+Epoch 30/60
+1666654/1666654 [==============================] - 1119s 671us/step - loss: 1.
+2003
+
+***** Generating text after Epoch: 29
+***** diversity: 0.2
+***** Generating with seed: "anding in to the fbi
+---------
+rfoundth"
+anding in to the fbi
+---------
+rfoundthings of the street and the only thing when you got a career but i don'
+t know what a serious you mean you would have to say doesn’t make you a baby a
+nd the only thing the compliment the special could be the dick and you have to
+ be a same time that you are a self and the compliment the students to be a go
+od look and she was a face of the reason that you look like a back to your fac
+e and make a shit
+***** diversity: 0.5
+***** Generating with seed: "anding in to the fbi
+---------
+rfoundth"
+anding in to the fbi
+---------
+rfoundthan a community than big to the dead of seet of your back of a so start
+ers and have a tinky down to your face.
+---------
+i would see your bares on the porn that in the high school and that you are wo
+rk from cancer with the life when you want to know that the guy who are your f
+ace and have to say un-been to be friends, it was a feeling when you look like
+ a with that porn
+---------
+your face says som
+***** diversity: 1.0
+***** Generating with seed: "anding in to the fbi
+---------
+rfoundth"
+anding in to the fbi
+---------
+rfoundthem i have up paint
+---------
+i think i that how long in the main alcooon an after open.cight lip when i gue
+ss even coment, get a wrong wife, thought id your cruscy
+---------
+i’m going as really wall of m shoot in a nad to the att, liner.
+---------
+for rat
+---------
+it's to get highleet grand, not a wrong shower
+---------
+pretty surrowerwhime
+---------
+this was that we are ake on what should be a b
+***** diversity: 1.2
+***** Generating with seed: "anding in to the fbi
+---------
+rfoundth"
+anding in to the fbi
+---------
+rfoundthanaging, fake, sharided facing augreatic thea!
+---------
+you look amaria and weed'ing leaon.
+---------
+if what your lilt’s happy from vikgettershivesingw, propest and walk the mean.
+.. i found its  while neck but smivring euseakion
+---------
+this guy  zach have to lie.
+---------
+wow, i aeds roastme belle creation is guar. give far gumbe
+---------
+is third scrippbous at lishea upie shopting.
+-------
+Epoch 31/60
+1666654/1666654 [==============================] - 1070s 642us/step - loss: 1.
+1998
+
+***** Generating text after Epoch: 30
+***** diversity: 0.2
+***** Generating with seed: "n it. same for the chamberpot.
+---------"
+n it. same for the chamberpot.
+---------
+you look like a little the way the money of a shit to be a sense and the only
+roast of the back to the back to the back to your face and a personality to th
+e comments and the fact that you are a straight to the title to be a straight
+on the shirt in the leg of the fuck in the back to the post and the only thing
+ you have a bad and a boy and the and i was a lot of the fuck in the sex find
+a bad and
+***** diversity: 0.5
+***** Generating with seed: "n it. same for the chamberpot.
+---------"
+n it. same for the chamberpot.
+---------
+you should always look like a brother than your monster than your basement.
+---------
+you look like a before was the same time.
+---------
+face of the career in a life cats painting and have a real whole what and i wi
+sh you try to go man and the current both starting a female and that big an al
+l and count is to make a paint with his own is when you can see what they can
+be the only roasts to be a
+***** diversity: 1.0
+***** Generating with seed: "n it. same for the chamberpot.
+---------"
+n it. same for the chamberpot.
+---------
+your rost section lives guys.....is holding that mascue, i non he got not bein
+g moching would as his actual
+---------
+i'd do an ugmairing and milet..
+---------
+your streamster
+---------
+he eyes say what you didge still ahead of gring?
+---------
+this is that chop in fagidara?
+---------
+i guess still years off hitless into right
+---------
+everyone looks leke and you still wares the doctor, why loo
+***** diversity: 1.2
+***** Generating with seed: "n it. same for the chamberpot.
+---------"
+n it. same for the chamberpot.
+---------
+you have the must pullistan to trailed lop nom , wasne presents diapetual to a
+pster, her his hair.
+---------
+chris a much aid seeing says too crick me, have iversenguate imagely to do kep
+ra is cover.
+---------
+mertimia will be the hooseat frita?
+---------
+tell their vesly time to see thick for a bottpeing payturels
+---------
+this one. now.
+---------
+hot look charasted
+---------
+a coice.
+---------
+Epoch 32/60
+1666654/1666654 [==============================] - 1052s 631us/step - loss: 1.
+1992
+
+***** Generating text after Epoch: 31
+***** diversity: 0.2
+***** Generating with seed: "t shot would be enough to roast you.
+---"
+t shot would be enough to roast you.
+---------
+you look like a face of the way to come to the same time the same time the fac
+e of the sister in the streets and the ass with a picture of your back to your
+ face.
+---------
+you look like a girl you didn't have to see the same time.
+---------
+you look like a meant in the comments of a bitcher.
+---------
+you look like you are a face on the same time that you look like a lot of a go
+od thing yo
+***** diversity: 0.5
+***** Generating with seed: "t shot would be enough to roast you.
+---"
+t shot would be enough to roast you.
+---------
+the they read your eyes are a lot of and and then you can look like you spend
+on the dick both and the basement and the only way i saw your friends who stil
+l you got to costing to still do that and even because you look like the hair
+is that shit minecolos on the comborna rack about your shit.
+---------
+you look like a life isn't your hair in the ground because you switch that you
+ are the r
+***** diversity: 1.0
+***** Generating with seed: "t shot would be enough to roast you.
+---"
+t shot would be enough to roast you.
+---------
+grass to he lookin at looking like somy civemond you sure it is confirw curret
+t?..
+---------
+you are your fingers and u didn't wifecation starting to fill.
+---------
+you much as your guitar
+---------
+m. a charilatimily left a grbetwotienthe
+---------
+whwhe early hold the shwfork’s if your earr legly dune to hell countting to yo
+ur hair.
+---------
+fooline mediocarit, when 2reyow whatever ever
+***** diversity: 1.2
+***** Generating with seed: "t shot would be enough to roast you.
+---"
+t shot would be enough to roast you.
+---------
+’srollie harnitway time?
+
+recently should be pazoro2l.
+---------
+just ready accater will costion out on aprace and burnia have seloned into awl
+lweaw
+---------
+your head looks smage dyy zoodied pinion, that’s aryffedbodh.
+---------
+yie wife whole major a
+---------
+i'd tyle i'd very so lide, no chacboi2natin, you can finst thump groundmaque,
+it's kindd couldngo white pubes fireking on voropa.
+Epoch 33/60
+1666654/1666654 [==============================] - 1503s 902us/step - loss: 1.
+1987
+
+***** Generating text after Epoch: 32
+***** diversity: 0.2
+***** Generating with seed: "steps making a living cruising her 2001 "
+steps making a living cruising her 2001 chance to really stay a hair to be a b
+aby with your face is a straight and show a good for the basement.
+---------
+you look like a lot of that you're a brother who seen you and the only thing y
+ou can see your parents and the only thing you are a straight and the only thi
+ng you are a shit in the part of the doctor on the sign for the second that yo
+u are a shit you are a seeing a bad and the back to
+***** diversity: 0.5
+***** Generating with seed: "steps making a living cruising her 2001 "
+steps making a living cruising her 2001 to the dude it all the world the stupi
+d in the personality with the color of your hair that your beard to the being
+all the beather better and the same sister of your chest beard.
+---------
+you look like you take the reason the see that i see a wife and entertain, go
+to look like the trailer than the rest of your face sleep to the boys and the
+fact that you don't have to get back to the movie just
+***** diversity: 1.0
+***** Generating with seed: "steps making a living cruising her 2001 "
+steps making a living cruising her 2001 to thinking you got an your hair gende
+r
+---------
+you must need to cosned brothertys no one needs to do your parents sandw you m
+ight have all the last very look posted ves a lesbianed on a bitchationerss!
+---------
+living in the pretty.
+---------
+may
+---------
+you work to contimanciest your attacing to only found being ousep
+---------
+she sound the court too and bet your brow's at airgoll. profess
+***** diversity: 1.2
+***** Generating with seed: "steps making a living cruising her 2001 "
+steps making a living cruising her 2001 chewby hanshope?
+---------
+i’m late churt to 0n
+---------
+progrings you mith at that chines.
+
+ralie the room, might have from haucdaww''d you stop mill rat ain't natent? my
+ supports are a boy a, hat transfoom
+---------
+it's npa badestic yough.
+---------
+waiteed in yourselfes.
+---------
+every mjoments.
+---------
+n'fe mac, if you tewne but when your post of figure ye crap is a job old some
+cherippym
+Epoch 34/60
+1666654/1666654 [==============================] - 1357s 814us/step - loss: 1.
+1982
+
+***** Generating text after Epoch: 33
+***** diversity: 0.2
+***** Generating with seed: " a shitty white van to match your shitty"
+ a shitty white van to match your shitty to be a bad and the only thing you we
+re a student start in the picture of a comments and a part of your face and th
+e only thing you are a female and the only thing you can see that you are a pr
+etty fucking face on the same time that has the career and she looks like a pa
+rt of your face is the same time that you should be a self and and a good was
+your face still trying to be a straight of a bad t
+***** diversity: 0.5
+***** Generating with seed: " a shitty white van to match your shitty"
+ a shitty white van to match your shitty porno holding anything to be a baby h
+ands in my people with the string so his mouth, you have a picture of the stre
+ets didn't be a boy that i don't think you look like the am be' and the back a
+s your hair on the same time.
+---------
+the fact that you wont see the smile your forehead
+---------
+you look like you can be with the face of your dneck and on the cancer had a s
+ome and pubes for control o
+***** diversity: 1.0
+***** Generating with seed: " a shitty white van to match your shitty"
+ a shitty white van to match your shitty years!
+---------
+you look like if your boot walk?
+---------
+you go must hate from cheese because u paken gay think
+---------
+you’re going to roast, is a houre larse
+---------
+halloh your worst he wont wait to care into a weak from a had sportyter
+---------
+that's your sacay a can happy aged in defeeteoo drie will be mountain badge as
+s time playing the tios.
+
+your team look. lost a shame a penis.
+***** diversity: 1.2
+***** Generating with seed: " a shitty white van to match your shitty"
+ a shitty white van to match your shitty dude wouldn't know your fif mission 2
+0card - i might go trying to keep in. you roast you.
+
+xcerald.
+---------
+please roles are used with behun ccalogs in a cartsy bone
+---------
+your seriouslykee maybe all mi're is last something in proter2 in at...ronely,
+ bec?
+---------
+nopting studented.
+---------
+krifur goap... an in-bublon, decide your hair up.
+---------
+so old neffore that laugh
+---------
+do
+Epoch 35/60
+1666654/1666654 [==============================] - 1137s 682us/step - loss: 1.
+1978
+
+***** Generating text after Epoch: 34
+***** diversity: 0.2
+***** Generating with seed: "------
+you look like asparagus.
+--------"
+------
+you look like asparagus.
+---------
+you look like a cat to the same comments and she looks like a distraction that
+ the fuck is the only thing you should think it would be a good look and her f
+ace is a better than your face on the face of a guy that as a shot on your fac
+e with the picture of the face of your parents and start and the fact that you
+ have to be a shower but you can be a straight on the sex and how the part of
+the comm
+***** diversity: 0.5
+***** Generating with seed: "------
+you look like asparagus.
+--------"
+------
+you look like asparagus.
+---------
+you look like a part of this is the sex life and not the straight to the world
+ so it did the basement and she took the real child to the test thing in the g
+irl from the dick in the prostitutes on your hair. and we can start in some po
+st one of the slum a girl to get a back of a tiny to his only thing in the fac
+t that you actually do and work for your clown and a wall.
+---------
+you look like def
+***** diversity: 1.0
+***** Generating with seed: "------
+you look like asparagus.
+--------"
+------
+you look like asparagus.
+---------
+why the old up is the love ofriouionhy, daughter movie suf mousta
+---------
+he thought you have as you do becam’. they don't know what she were stploddere
+reli’s man off report, nice water the only 1020s
+---------
+you left you you addervoced in the boim is his time.
+---------
+---------
+ills the logaro to head, fade proserating part and forget douche
+---------
+it's so rucked away worker down the k
+***** diversity: 1.2
+***** Generating with seed: "------
+you look like asparagus.
+--------"
+------
+you look like asparagus.
+---------
+lookin getling you.
+---------
+did only when i call he’s a vertime
+---------
+succe, stillfuckprist?
+---------
+you else crumblefuly powered ugdue.
+---------
+there was play menated after upsorwated dge-putuw. chick a stenne og time does
+nt think you mean’s haars. by? kidoyif grow rimmed
+
+r'stap?
+---------
+my jok.
+
+and you can say getfine!
+---------
+just pretty sugges is
+---------
+my face
+---------
+Epoch 36/60
+1666654/1666654 [==============================] - 1103s 662us/step - loss: 1.
+1973
+
+***** Generating text after Epoch: 35
+***** diversity: 0.2
+***** Generating with seed: "ion and give this guy what he fears.
+---"
+ion and give this guy what he fears.
+---------
+you look like a thing you have to stay a compliment that the only thing you lo
+ok like a mind to the wall are a back of the cousin from your face is a dead a
+nd the sex that the time the hair is what you would be a bad and the only thin
+g you were a down to get a child and a child of a character that you are a ser
+ial probably have a shower in the face in the same time that you can see your
+fac
+***** diversity: 0.5
+***** Generating with seed: "ion and give this guy what he fears.
+---"
+ion and give this guy what he fears.
+---------
+i think you tried to too runs of all the end of the other formutisten and her
+attractive on the compete a personality
+---------
+you look like a finger thing you should be hit person who benned the fuck is a
+ real common to your title.
+---------
+he looks like someone look like you are male to the hot a samone back
+---------
+you look like a serious you the comments from the same thing any pers
+***** diversity: 1.0
+***** Generating with seed: "ion and give this guy what he fears.
+---"
+ion and give this guy what he fears.
+---------
+if miss
+---------
+pick of your sister thinking even when you fat biols
+---------
+the birsh sommolder of facial hair upway
+---------
+u swrised edititly make fat tells you
+---------
+you must be meds missed capt at the smile man.
+---------
+you look like everyone patch beard the reason lame from a lokeini? anaky who s
+eriedk jack.
+---------
+you do he'r’ lovely looking like cookies side and let t
+***** diversity: 1.2
+***** Generating with seed: "ion and give this guy what he fears.
+---"
+ion and give this guy what he fears.
+---------
+who i bet it link ha'd isne pulicsols
+all -orx onless?
+---------
+yow  name is pagant to end time
+---------
+cover that, at least reway livan, you know she is does hell of those haircut.
+---------
+why do you simpin bogg.
+---------
+those face chocolate okesta, about ta3s calls the skin ut studitering or a gra
+mm fool,gon or ath wiwzan
+
+---------
+the forvel was bear you in guys if featurevermenc
+Epoch 37/60
+1666654/1666654 [==============================] - 1332s 799us/step - loss: 1.
+1969
+
+***** Generating text after Epoch: 36
+***** diversity: 0.2
+***** Generating with seed: " think no one paid any attention looking"
+ think no one paid any attention looking like a child of a shit that have a sh
+ows and the fact that you would be a shitty and you can see the same time that
+ you can see your face and start and the fact that you can see the same time t
+hat you can see the sex that a bad story that you are a shit in the cousin for
+ a shit in the back to your face.
+---------
+you look like a man is the sex store who has a lot of shower that is the only
+thing
+***** diversity: 0.5
+***** Generating with seed: " think no one paid any attention looking"
+ think no one paid any attention looking like a face can say that you can get
+your baby who can consider the bride from make for your face says and have me
+just like the guy was shit as a child is the words you look like a wheelchair
+account end kid is the straight to get back to your mom of this.
+---------
+i would start the fact that you only show can to roast you you look like a lon
+g to see that you can already asked the people and go
+***** diversity: 1.0
+***** Generating with seed: " think no one paid any attention looking"
+ think no one paid any attention looking like has no dick. wrong
+---------
+if were you random a e?pley support much.
+---------
+go elene.
+---------
+m
+---------
+this is it all no way
+---------
+bro refuses you out of your ina chemo alima things they took you to your guy w
+ouldn't realize that is your family
+---------
+you look like the resmacter for you them each othercomson that i mean all the
+way to meh don’t want you colleach colacinre. p
+***** diversity: 1.2
+***** Generating with seed: " think no one paid any attention looking"
+ think no one paid any attention looking like yourself.n.
+---------
+why did you wero finding hov? is now.
+---------
+you mean you can1 just seasshers: a leg out shirt with ama..
+hay leprey browsthit feminmin?
+---------
+with thors, your astictoin?  you’re me, as a smoking. idaties porhulazy nothin
+g does un'd eventufine hair profileg!
+---------
+coff
+--------
+daddy say i think you buy, picked them stupides.
+---------
+you look like you maw w
+Epoch 38/60
+1666654/1666654 [==============================] - 1057s 634us/step - loss: 1.
+1964
+
+***** Generating text after Epoch: 37
+***** diversity: 0.2
+***** Generating with seed: "irl of the year.
+---------
+ironic you’re"
+irl of the year.
+---------
+ironic you’re a better picture of the back to your face.
+---------
+you look like a sister who start the only thing that you look like a pretty a
+good to be a baby who is the sex school to be a comments and can you see the p
+arents and see that she looks like a bad and the same time i can see the same
+time that was a part of the same time the self and the career back of a brothe
+r with a shit in the back to the f
+***** diversity: 0.5
+***** Generating with seed: "irl of the year.
+---------
+ironic you’re"
+irl of the year.
+---------
+ironic you’re the missing a finished and so they probably get a good at the da
+y i heard of the south who completely the garbal that for the entire really bu
+t even up the man in the good hair is like the least face doesn't make you a b
+arbers and the enticale the sex because your children to see that the post and
+ pretty made man. anyway for my piece of life and you do that more for a thing
+ and well and the pain
+***** diversity: 1.0
+***** Generating with seed: "irl of the year.
+---------
+ironic you’re"
+irl of the year.
+---------
+ironic you’re stexia
+---------
+e’sting its her head is moder, but clock you everyone having a hand you pop fo
+od is you
+--bills green eather under operation. and leave if diacin
+---------
+a made a was beerstainstars
+---------
+i'll could be my liawand of life gonna and very full. i dadn, who this feldman
+ told the inititt. like your hair than a nuck fellowardo...
+---------
+so the worst grave right here albo.
+----
+***** diversity: 1.2
+***** Generating with seed: "irl of the year.
+---------
+ironic you’re"
+irl of the year.
+---------
+ironic you’re being worst it's instead
+---------
+you look like his figss once iver?
+---------
+my loves like vyile saying stunt really friendshie and sapaiaply go dhere that
+ win your pat will an aacto’s porrs.
+---------
+i am me.
+---------
+rip wildat, soldum'
+---------
+your eyes ih bedo wonsa, all thor.
+---------
+came ga, only because of , and there your hair gues's stre?
+---------
+your franco human years.to all
+Epoch 39/60
+1666654/1666654 [==============================] - 1038s 623us/step - loss: 1.
+1960
+
+***** Generating text after Epoch: 38
+***** diversity: 0.2
+***** Generating with seed: "---------
+but you'd fuck each other for "
+---------
+but you'd fuck each other for the same time.
+---------
+i don’t want to see that you are the only thing the only thing the only thing
+the only thing the camera and the fact that you still have to see the same tim
+e the only thing you still have to get the student as your face is the sex wit
+h your face is so basement and the only thing you were the same time the only
+thing you are a shit on the same time that you have a self and
+***** diversity: 0.5
+***** Generating with seed: "---------
+but you'd fuck each other for "
+---------
+but you'd fuck each other for your doesn't make you a solds your face is to lo
+se your head and doing a shoulders to the chris hansen away from your sense th
+at you still love when you didn't have to be a child.
+---------
+you look like you are not a roast and movie the internet me or a nose people l
+ook like the roast a way in a haircut christmas good doggence in the other.
+
+
+
+thank you are so sounds like a face is a compliment
+***** diversity: 1.0
+***** Generating with seed: "---------
+but you'd fuck each other for "
+---------
+but you'd fuck each other for the one invo after finally over your take an att
+ention fur you al
+---------
+when you could. ewb life mores and hear incel.
+---------
+you look like wanna not bectinc sex dog you may not get a cat your parents, no
+t a face from 1 overselveter hair or another big and or kaduitoc. do she'll wi
+sh i doubt x200bining you'll likes the pert. you'd go on theyre one wsonce i o
+f her last past but ?
+---------
+t
+***** diversity: 1.2
+***** Generating with seed: "---------
+but you'd fuck each other for "
+---------
+but you'd fuck each other for you beautifulchage big hearting suimp.
+---------
+how bed it
+---------
+at least be in raskup, you , blairs
+---------
+looks like the guy with fitifucdka!
+---------
+nice bathrud if u splet your die of your very forcesirat. you fact thatiestone
+nht
+---------
+when killed that dam i had fg.
+---------
+your off chumbly dye ehjal
+---------
+do your gufflain last on st, between hard cnice for min alreadyxves
+Epoch 40/60
+1666654/1666654 [==============================] - 1044s 626us/step - loss: 1.
+1956
+
+***** Generating text after Epoch: 39
+***** diversity: 0.2
+***** Generating with seed: " on!
+---------
+im sure your salary from"
+ on!
+---------
+im sure your salary from the startable of a sub but you look like a bad and th
+e only thing the same time the same time the most and the best shit in the bac
+k of a shit and the only thing you have to stop to be a bad cancer and she was
+ a guy with the second that you have to see your face is a girl who has a lot
+of the completely and the only thing you were a serial problem.
+---------
+you look like a man is the camera and
+***** diversity: 0.5
+***** Generating with seed: " on!
+---------
+im sure your salary from"
+ on!
+---------
+im sure your salary from storm this post on your eyes on the chances and the p
+ersonality and beard to help in horrible.
+---------
+you look like guy could roast you your blow you never be demon.
+---------
+i have a personality with a promotiver doll?  also the children that feeling t
+he same time that and storier and side of your personalityed with the day look
+ing at your life and your face like it and when you got the worl
+***** diversity: 1.0
+***** Generating with seed: " on!
+---------
+im sure your salary from"
+ on!
+---------
+im sure your salary from those af’inmed i waetholet meme not sure this was in
+jamon and honey lateeslt, in me to med2atl of thene toy, the superodio. that b
+ut my ma..
+---------
+i enfice hasom day.
+---------
+it founding that living everylt to fail in that for your muntpart.. thatses ab
+le to there' hole that nudwarcom
+---------
+you look like you are your sedit looks like it's gonna liot posters.
+---------
+rshim billie call
+***** diversity: 1.2
+***** Generating with seed: " on!
+---------
+im sure your salary from"
+ on!
+---------
+im sure your salary from im a cousin color of the geestle!
+---------
+yourself
+
+:) with yo hayf?
+---------
+people get yourself.
+---------
+dading about you if you wilue ecs. i bellens  into get i wouldn’t know to into
+ piercial cutume. edits it. car ble
+---------
+you look like ternor know to pubbers onf divelain us nyr.
+as hcas toasters
+---------
+feet in the fio firt people linro, though
+---------
+https:irstffroexamaupsww’s
+Epoch 41/60
+1666654/1666654 [==============================] - 1013s 608us/step - loss: 1.
+1952
+
+***** Generating text after Epoch: 40
+***** diversity: 0.2
+***** Generating with seed: "he started going with another girl for a"
+he started going with another girl for a sex with your boyfriend is the mom st
+op to be a constantly a better than your face is a comments and the house that
+ she looks like a back to your beard and the post and the only thing you look
+like a selfie of the same time that you are a comments a straight and the only
+ thing that is the only thing you are a compliment in the park to be a bad str
+aight and the only thing you can be a bad and the
+***** diversity: 0.5
+***** Generating with seed: "he started going with another girl for a"
+he started going with another girl for a woman, the camera is my face on the c
+omplete that is that you pay for the picture of your rest of your mother rando
+m and hard to be born and don't worry out of the back to make your career die
+and but i can see the dick and have seriously i see you still control in your
+friends fat fucking for the same thing you look like the trailed that is that
+you and cat and the homeless with your friend or a
+***** diversity: 1.0
+***** Generating with seed: "he started going with another girl for a"
+he started going with another girl for anywadffar as fuck.
+---------
+race from the fuck who also get a female
+---------
+how many proon to green big place i ---------
+that mansgets pubes you gaince more with a thing?
+---------
+family bang for a chadurca snistice.
+---------
+fasher percent life
+---------
+you look like in those fucking as crash of him. good fac, your forehead james
+me just in a girl. is that him.
+---------
+wints on the disa
+***** diversity: 1.2
+***** Generating with seed: "he started going with another girl for a"
+he started going with another girl for all that rroastme no game of long mista
+kes and please
+---------
+survive great prietenable widafe.
+
+someowa need a laraging.
+
+roastings oyes...
+---------
+you cerealting balls and sell
+---------
+cuy chick voy off
+---------
+your jeaxx
+---------
+i don’t go man'. is too. providial called your i'mprocure on haring properpess
+.
+---------
+you’re swha'd coffred cloices for you
+
+my eyebrows.
+---------
+if this
+Epoch 42/60
+1666654/1666654 [==============================] - 1012s 607us/step - loss: 1.
+1948
+
+***** Generating text after Epoch: 41
+***** diversity: 0.2
+***** Generating with seed: "---
+scar on shoulder looks like you have"
+---
+scar on shoulder looks like you have to see the same time the post and the onl
+y thing that you can see that with a part of the stripper that all the compari
+ng that you are a comments and she can see your hair is the park and start and
+ should be a money of the fact that you have to be a baby and people are a str
+aight of a picture of the same time that you should be a straight to be a bitc
+hes and have a stranger than you are a student
+***** diversity: 0.5
+***** Generating with seed: "---
+scar on shoulder looks like you have"
+---
+scar on shoulder looks like you have a god you have a little life.
+---------
+you look like a down showed of my heart when you are not the time you think wh
+at the curry some or your back.
+---------
+you look like you already call you for the need to talk and your worst who sho
+uld have to see your hair.
+---------
+i look like a virgin the comments of the brown comments on the day things to b
+e a good.
+---------
+you look like farth who wo
+***** diversity: 1.0
+***** Generating with seed: "---
+scar on shoulder looks like you have"
+---
+scar on shoulder looks like you have a chyito’s the allowed with her lights, t
+his even they’d achiel that you prostitute
+---------
+low making face scrubsyrnizg hook you wearing the second time 'couting a cozom
+armoo in hit traghtings. menting. idnot.
+---------
+you look like if someone with the first is great cera would get the pic this m
+an? justin said a hannif booging handstally dad.
+---------
+elleny, trotless by are you wearing he
+***** diversity: 1.2
+***** Generating with seed: "---
+scar on shoulder looks like you have"
+---
+scar on shoulder looks like you have some mores
+---------
+am ben't invents.conter
+---------
+you've anne vimin.....
+---------
+this iid socuble. like ladi pidoch a shorts is like weaking any single being h
+omebad yetx. i
+---------
+ma , to putty shops boty
+---------
+hunteck back.
+---------
+you look like a pipchtorts, bro. 1yeage black
+---------
+the only doubtca, you eat me husb.
+ no mexican and i hook the let what's th'ir tyle...
+-----
+Epoch 43/60
+1666654/1666654 [==============================] - 1006s 604us/step - loss: 1.
+1944
+
+***** Generating text after Epoch: 42
+***** diversity: 0.2
+***** Generating with seed: " same. i hope you stick with it and cont"
+ same. i hope you stick with it and control that you look like a disappointmen
+t of the same time the first time i would be a good beard and the only thing y
+ou are a hair is the only thing you have to start a part of the students and t
+he way that she can see the same time you look like a bad and the only thing y
+ou have a shit when you were a good look and a parents are all the same a bad
+to the face of a shit to the back of a bad to the
+***** diversity: 0.5
+***** Generating with seed: " same. i hope you stick with it and cont"
+ same. i hope you stick with it and control that is a face because i want to g
+et a face but i think you really smell like the world you friends and the comp
+limen in your face in a second than your parents because if you don’t think yo
+u get bad eye brown you would be a friend the last tattoo that you look like a
+ picture should be a marking in your sex offender
+---------
+you look like you could make a real seriouslys in the girl in the ti
+***** diversity: 1.0
+***** Generating with seed: " same. i hope you stick with it and cont"
+ same. i hope you stick with it and contrally matchin without taken- slim bom
+decorator
+---------
+this guy piss ladioastam
+---------
+considering you elecictboo. you weirrowasting the reposesparent. '2 lot of a p
+rostitute
+---------
+she looks like if wants a jim. my hair btaget that plans your ear, theyself ab
+ilispy basement.
+---------
+hot look of making when he used noshmand. or dumpated you used eyes had to
+---------
+if no warredweak th
+***** diversity: 1.2
+***** Generating with seed: " same. i hope you stick with it and cont"
+ same. i hope you stick with it and conturance in your breath-tfulh:?
+---------
+just smalley through the charlco girls uphere.
+---------
+hatelversturt, wearton with a cancer come oouture
+---------
+i'm streaig, 20 yo not a string problem probably here. tell the lec
+---------
+you did senny oneless waying this phycitet!
+---------
+when this lune. look like sdammught in this body htwd.
+---------
+headjand, witcheaklywalcoolcallsy
+---------
+y
+Epoch 44/60
+1666654/1666654 [==============================] - 1008s 605us/step - loss: 1.
+1941
+
+***** Generating text after Epoch: 43
+***** diversity: 0.2
+***** Generating with seed: "d in a penitentiary.
+---------
+what do y"
+d in a penitentiary.
+---------
+what do you have to be a completely story that you can come out of the same ti
+me the hair is the only thing you have a personality and the only thing the co
+mpliment the student as a shows you are a shit in the back of the porn that th
+e fuck is the same time in the face of the self and the only thing you were a
+completely a desperate to the compliment the fuck and she was a month and the
+fact that you still
+***** diversity: 0.5
+***** Generating with seed: "d in a penitentiary.
+---------
+what do y"
+d in a penitentiary.
+---------
+what do you face and picks for enough to be a good ass instead.
+---------
+you look like a top looking like the way in the masturberbable with the post a
+ dog boys in the first since he is a bad a finger that they say look like the
+boobs did it as well?
+---------
+you look like a good thing it makes you let him going to distract a friends.
+---------
+you look like a getting the cream to so your face has a loo
+***** diversity: 1.0
+***** Generating with seed: "d in a penitentiary.
+---------
+what do y"
+d in a penitentiary.
+---------
+what do youred a badggs
+---------
+tell you we look like jesus the because away the somewhosepapine compuntlu.
+---------
+ends on ed your post-predauast
+---------
+chat pazs waiting beet congrator king.
+---------
+you look like we could glve black of the or a boro
+
+standof
+---------
+that say, it looks.
+---------
+pay for hell cheete of vaginating from shemowastuiates...does that as ajation
+while do their denni!
+***** diversity: 1.2
+***** Generating with seed: "d in a penitentiary.
+---------
+what do y"
+d in a penitentiary.
+---------
+what do you have to gets and think you’re a belly.ubile and are going three yo
+urself that use shit. i?
+---------
+not su wargenn
+---------
+rightlope uprorting enough to hurt back
+---------
+you look like what soot thali slaw raded where ahthd did a self
+e
+---------
+cant suck their ciak, finally, to get seams and the only  stop dumberchable
+---------
+youold , te'm's. and diofuk
+---------
+are say.
+xymen one w
+Epoch 45/60
+1666654/1666654 [==============================] - 1007s 604us/step - loss: 1.
+1937
+
+***** Generating text after Epoch: 44
+***** diversity: 0.2
+***** Generating with seed: "addy with emo issues.
+---------
+i though"
+addy with emo issues.
+---------
+i thought you are the one that we can see the same time i would be a bad and t
+he only thing you are a straight and the fact that you would be the title in t
+he post and the only thing the sex care of the post and the comments and the o
+nly thing that you look like a part of the sex offender.
+---------
+you look like a character started the best with the picture of the same time i
+n the back to the same thing
+***** diversity: 0.5
+***** Generating with seed: "addy with emo issues.
+---------
+i though"
+addy with emo issues.
+---------
+i thought that she looks like you still have to see your face who still say yo
+u are still a down the picture the same chance the creative masturbation broth
+er.
+---------
+when it was a problem white painting records.
+---------
+did you have a brace to the career to coming what you have a face to be a bit
+of one of someone to have to have a garke
+---------
+you look like the guy should be a cheating a beard
+***** diversity: 1.0
+***** Generating with seed: "addy with emo issues.
+---------
+i though"
+addy with emo issues.
+---------
+i thought was rate dates uncle.
+---------
+you look like jesus can take a roasts assham husher from those or that sagemin
+g as your shirt is your place
+---------
+you touch anything another offideding and resemble any
+---------
+ij? she already becaik onege with to have you.
+---------
+you don’t know why this point life, but part got mac, they roasted yourself.
+---------
+i’d fix rick neth wora langlet cake?
+--
+***** diversity: 1.2
+***** Generating with seed: "addy with emo issues.
+---------
+i though"
+addy with emo issues.
+---------
+i thought musy better girlf. dobabadles i edpies post that you hungers to chem
+ the overdag no kids. edit you more x
+pdy artnt bet
+---------
+youyed hall work huncer’s drake.
+---------
+my mommas ssnre. on white mittca
+---------
+a feminister.
+
+you've born your adfultent spare
+---------
+idubed man...atelor to d7 a profinate have )iclougorns?
+---------
+hot.  did it wouldntt you'll way man im, you made at for
+Epoch 46/60
+1666654/1666654 [==============================] - 1010s 606us/step - loss: 1.
+1935
+
+***** Generating text after Epoch: 45
+***** diversity: 0.2
+***** Generating with seed: "--
+you might qualify for welfare when yo"
+--
+you might qualify for welfare when you were a definitely and the only thing th
+e only thing that you look like a comments and the only thing the fuck are you
+ a shit she was a person who still are going to see that you are a comments an
+d start a face of your face and a sense that you look like a bitches and the o
+nly thing that you look like a more than your face is a completely as a straig
+ht of a man is the only thing you have a strang
+***** diversity: 0.5
+***** Generating with seed: "--
+you might qualify for welfare when yo"
+--
+you might qualify for welfare when you should be a good baby still get a perso
+nality in the back of douche.
+---------
+you look like you be got down to be starters and the back in the middle of a t
+here not a seeing your chin.
+---------
+i can't really have the a man looks like a growerball but the time the child o
+f the post a porn for the before the only thing your hair that you say you fin
+d the title.
+---------
+i would like to should
+***** diversity: 1.0
+***** Generating with seed: "--
+you might qualify for welfare when yo"
+--
+you might qualify for welfare when you're your promose your hair in shit, fatu
+nees partitic girl
+---------
+high wgrt on place.
+
+human iused turredadly was facebush in when it was mentipring?
+---------
+so had no mattle of that young and probriout my b your absolue......wammerback
+. even this bun your faces happy and there you have another face and a hang as
+spe di5 your post?
+---------
+roging
+---------
+your ease! who has navog back out
+***** diversity: 1.2
+***** Generating with seed: "--
+you might qualify for welfare when yo"
+--
+you might qualify for welfare when you tell the aspilitic often do funnyed he
+madeur, a may it ainpts media we found a chatn one
+---------
+by the check direce!
+---------
+can’t krown fucking.
+---------
+are you gollue.... open’s time tulth or decisi!?e swips bl'sme.
+---------
+trying to get inside bf  is otransite serial.
+---------
+is that a mouth spafmc’t you're dueust for change to wrogh verin, writch looks
+ like you're fight just due'
+Epoch 47/60
+1666654/1666654 [==============================] - 1005s 603us/step - loss: 1.
+1931
+
+***** Generating text after Epoch: 46
+***** diversity: 0.2
+***** Generating with seed: "
+you look how your writing looks, horrob"
+
+you look how your writing looks, horrobles and the shit in the sex offender.
+---------
+you look like a face of the sex offender
+---------
+you look like the part of a personality of a bad as the same time the time the
+ same time the same time the only thing you look like a long and the only thin
+g you are a person who would be a baby and the same time that has to start a p
+orno she can be a baby but you look like a bad and the same time th
+***** diversity: 0.5
+***** Generating with seed: "
+you look how your writing looks, horrob"
+
+you look how your writing looks, horrobles around the only roast of a hard to
+the only thing the gaming the shit the time they say is a person and the only
+thing you're a downvoted on your eyes and make sure the considered a face star
+t some fire to clearly pretty a marking the best from the school to show in th
+e closet
+---------
+you look like person in the side of your eyebrows.
+---------
+you look like a bit of an and crises.
+---------
+***** diversity: 1.0
+***** Generating with seed: "
+you look how your writing looks, horrob"
+
+you look how your writing looks, horrobally into walmart people. the camer ben
+, hand to see that when you gone in the fla lookies transithy of the sexual to
+ by the lub trashy...
+---------
+what’s three raw?
+---------
+of this. stay even fortnitelbasts? , you look like halt versional their forehe
+addickgejan
+---------
+i will use your face
+---------
+bible where u trams
+---------
+done vegan young guy would have bagent provent joke many of no
+***** diversity: 1.2
+***** Generating with seed: "
+you look how your writing looks, horrob"
+
+you look how your writing looks, horrobate
+---------
+you literally getingimelea soul.
+---------
+you look like maused read
+---------
+is practics you say?
+---------
+you've never easy. i see years justin axpanimon fulr things to your years baby
+ett pic doesn't get fantards viraio
+---------
+didn't have ice selling how douchek you so ites work here ats rogned to arosk?
+ dinsety currest
+---------
+you look like nice on fy... racely by a female
+Epoch 48/60
+1666654/1666654 [==============================] - 1105s 663us/step - loss: 1.
+1928
+
+***** Generating text after Epoch: 47
+***** diversity: 0.2
+***** Generating with seed: "--
+discord light vs dark theme.
+--------"
+--
+discord light vs dark theme.
+---------
+you look like a thing that you look like a baby in the fact that you are a sho
+ws and and then you are a self and have a shit that should be a good look and
+the fact that you still say the bad and the way the cat to look like a face of
+ the post and start cancer stay in the back and the post here to be a complime
+nts in the back and the world is a self and that you have to be a chance to th
+e same t
+***** diversity: 0.5
+***** Generating with seed: "--
+discord light vs dark theme.
+--------"
+--
+discord light vs dark theme.
+---------
+you're a parking to too brutted has to show on the love you the picture to pro
+bably still go to believe that shit in his banging single actual post of a str
+anger than you get the prostitutes to a compliment.
+---------
+i think you say the guy in the park and a pietal franco.
+---------
+you look like you should be a cancer.
+---------
+the looks of she dead straight the companys to farry doing some p
+***** diversity: 1.0
+***** Generating with seed: "--
+discord light vs dark theme.
+--------"
+--
+discord light vs dark theme.
+---------
+poor is sire subsolating it also is getting to be attram lettrii with weak whi
+le
+
+---------
+her looks like the claim, don't look like out that victimess as you had an eas
+y tie mon.
+---------
+you're affonner most shining as stexing in the rest of your wifted fially disc
+overing titsoan sleice.
+---------
+imabies caind hair wouldn'tally wait ronmits did be the gay outfit camp
+---------
+keep ninelin
+***** diversity: 1.2
+***** Generating with seed: "--
+discord light vs dark theme.
+--------"
+--
+discord light vs dark theme.
+---------
+new points under realny want torts - slemailly, if it's expression are pfet in
+come. and takes prover mors, to that everyth’s asterpornsns skyrich, everyone,
+ tomy instupitionfw''strink
+---------
+oh put your vasing ot!
+---------
+you guys enzan look like that
+---------
+?
+
+encsguda rugs. you can ?.. and his mrosashi
+---------
+at least go threx victivan.
+---------
+immit gwant fristtion others ring yo
+Epoch 49/60
+1666654/1666654 [==============================] - 1298s 779us/step - loss: 1.
+1925
+
+***** Generating text after Epoch: 48
+***** diversity: 0.2
+***** Generating with seed: "sure you got a promotion or did hr isola"
+sure you got a promotion or did hr isolated to the shit on the girl that she l
+ooks like a part of the carrot stop starter than your back to the face of a ch
+ild with a shit on the movie than your beard and the only thing the same time
+the same time the depressed the shitty straight on the same time the back to t
+he comments that you have a shit and the thing you look like a person who is a
+ straight starter than your face and the only thin
+***** diversity: 0.5
+***** Generating with seed: "sure you got a promotion or did hr isola"
+sure you got a promotion or did hr isolating that because you won't see that m
+issing to the complete and a bad look like you be a necklaces on a crack and s
+till are world to be a month and you finally have to be like with the part of
+the completery a shit in the middle of a shame for your catered.
+---------
+you look like the type of guy who did you teerstanded climbing shit on the som
+e because you were bangs since he was too bad because
+***** diversity: 1.0
+***** Generating with seed: "sure you got a promotion or did hr isola"
+sure you got a promotion or did hr isoladfruited.
+
+she’s self worried a commeotor to besting to tuess disappointment.
+---------
+i'm guessing are you so when ma?
+---------
+is the person will be legary result in people should’ve billing you from a fac
+e.
+---------
+big both when you stop her mustachely
+---------
+i would  than, you look like your is are the other graducation out.ui.ubealves
+ for you.
+---------
+don’t worry. 0x turing mamory c
+***** diversity: 1.2
+***** Generating with seed: "sure you got a promotion or did hr isola"
+sure you got a promotion or did hr isolases nothinger
+---------
+this was the 1calemr’soioibe-sairbrust!
+---------
+this btil with pornhamitel outries.
+---------
+your sishoe f telled exaglestains
+---------
+means in cruck
+
+forgo with vacrey guys? it’s the
+
+back. thats what looks like one you mump happy
+---------
+in the ingrain your crity traco
+---------
+you’ll bring you is a months. we needed nb
+---------
+bigger
+---------
+you look witch,
+Epoch 50/60
+1666654/1666654 [==============================] - 1123s 674us/step - loss: 1.
+1922
+
+***** Generating text after Epoch: 49
+***** diversity: 0.2
+***** Generating with seed: "le elon musk
+---------
+girl, you might j"
+le elon musk
+---------
+girl, you might just have to be a bad and the fact that your face is the only
+thing you are a baby than your face and the only thing you were a serial bro w
+ith the basement and start a face on the straight of the back of a part of the
+ comments and start a compliments and the only thing the only thing you have t
+o be a baby and some shows and a straight to start a shit the back to see your
+ face and a picture of the
+***** diversity: 0.5
+***** Generating with seed: "le elon musk
+---------
+girl, you might j"
+le elon musk
+---------
+girl, you might just work and the front of it is boring
+---------
+do you are a decide that she will be a part of this is the picture says a boy
+and the looks of your the decides to roast you for your bio to simply and have
+ the man in the least me because you are not congrats and she was to see you a
+re so in the people we can make it to look like i thought you were the same ti
+me that have you think i was not really
+***** diversity: 1.0
+***** Generating with seed: "le elon musk
+---------
+girl, you might j"
+le elon musk
+---------
+girl, you might jummy king approm around you.
+---------
+your forea. it’s account and a making the move
+---------
+you say well you want to bitcers in that without canny.
+---------
+bulldeaple reating dillin macks you’d think come friends survive.
+---------
+that szirge the have fuckn taket wit a fenters growing strings are not your he
+rse. even commony.
+---------
+you're girl for mea tits but rttopreadd?
+---------
+you
+***** diversity: 1.2
+***** Generating with seed: "le elon musk
+---------
+girl, you might j"
+le elon musk
+---------
+girl, you might join my teeth ass around on reasons
+---------
+you would put your um.
+---------
+you like someone kiff will foqutt, you with your post and fit on ain’t job hil
+lster norkals
+---------
+who how roundever addiction,.
+---------
+of maining it.
+---------
+is that tits at loce that sheff should this stweeng.
+---------
+mr
+ on chaturbate were topcrend to relline on reading delly you’ll be a relains
+---------
+i
+Epoch 51/60
+1666654/1666654 [==============================] - 1311s 787us/step - loss: 1.
+1919
+
+***** Generating text after Epoch: 50
+***** diversity: 0.2
+***** Generating with seed: "ike a candle for months
+---------
+you're"
+ike a candle for months
+---------
+you're a bad and a shit and the only thing you look like a bad a completely an
+d shit in the picture of the same time that makes you the the comments and the
+ only thing you look like a thing you look like you want to come out of the ba
+ck to the picture of a child of a girl who doesn't want to be a baby in the ba
+ck to the same a bad and don't see the only thing you are a stereotype to see
+your face is a s
+***** diversity: 0.5
+***** Generating with seed: "ike a candle for months
+---------
+you're"
+ike a candle for months
+---------
+you're the comments called and studying to comment a boobs looking at your per
+sonality of a face on the fucking descred in the same clothes you are like any
+ toften can watch back to your boyfriend for a spresk show in the face on the
+cancer in the basement and have the death with the hands.
+---------
+so you can be a carder that all the ass fucking and the bad because you have t
+o tring on the post with y
+***** diversity: 1.0
+***** Generating with seed: "ike a candle for months
+---------
+you're"
+ike a candle for months
+---------
+you're trees tie ring for ..
+---------
+lefto hoping ur none as a boat crosst it. youd short insult of threz friend. y
+ou are likes make out of your attention. or poon. they can make easile to stan
+d right you pictures not a paint
+---------
+were a peorsicaather? for racary.
+---------
+surfewed it
+---------
+button, joint!sid
+---------
+you look like right likles of your meal years in no roastver.
+---------
+yo
+***** diversity: 1.2
+***** Generating with seed: "ike a candle for months
+---------
+you're"
+ike a candle for months
+---------
+you're like your dear
+---------
+icve.
+---------
+walmart, you’re gonna roasts.
+ xmamonta? i got the street rogenather
+
+sheefs budd-tan! you're guelolfacted posts pieces just not. someration
+---------
+you're an empty. finding through own colleget?
+---------
+left!w
+---------
+you probably 30 more with how dozzenc: jesusphy
+---------
+because you have the gafboved attention.
+---------
+your mefthemenoz to yo
+Epoch 52/60
+1666654/1666654 [==============================] - 1331s 798us/step - loss: 1.
+1917
+
+***** Generating text after Epoch: 51
+***** diversity: 0.2
+***** Generating with seed: " great in ice age
+---------
+your hair ap"
+ great in ice age
+---------
+your hair applied to the same time the only thing you have a shit on the stree
+ts and start when you still are and the only thing you were a straight in the
+picture of the face of a shit on the back to a back of a discount stuck out of
+ the back to the side of your face is a straight and the fact that you can sta
+y in the back to the side of the comments and a bad and the and the way you ca
+n see that you can see
+***** diversity: 0.5
+***** Generating with seed: " great in ice age
+---------
+your hair ap"
+ great in ice age
+---------
+your hair applies saying you're like the russian but the hus like the less on
+the man shame you look like a sex that the cool at the second to the guy so yo
+u look like a girl in this is a carrot mouth?
+---------
+you look like the type of girl who should be what the only thing your hair to
+realise the will all have to find a pants and the top looking like the brush i
+n the background of a drag god is a chance w
+***** diversity: 1.0
+***** Generating with seed: " great in ice age
+---------
+your hair ap"
+ great in ice age
+---------
+your hair appeto it.
+---------
+hoodie taugh strack
+---------
+is that an dudes in the gronerlent...
+
+you have goat away from that you, how.
+---------
+did the knights knockoking of a makes other therey jobitlys: script? those set
+oplate that this man stay in his jaw.
+---------
+shailo the fire
+---------
+mespick is as a sunboth band turing also busimasted cause the must be the look
+ and stolera why no dogose, you'r
+***** diversity: 1.2
+***** Generating with seed: " great in ice age
+---------
+your hair ap"
+ great in ice age
+---------
+your hair apeetiins aolif....
+---------
+if no bri have he poptelp, , yous is more a joys usell on.
+---------
+big treat was your living.
+---------
+your head are writing but penvi replat less motel attaplies to fail vasise alm
+ost looks like mainubks.
+---------
+hopes you got 2amer i spend extred mountain, hall carue shit, on  away exprict
+ions of betterfrom these asseur tearcom butt first face and writerh from ha
+Epoch 53/60
+1666654/1666654 [==============================] - 1342s 805us/step - loss: 1.
+1914
+
+***** Generating text after Epoch: 52
+***** diversity: 0.2
+***** Generating with seed: "--
+your videos are very boring and unins"
+--
+your videos are very boring and uninstrenkler but i guess i can see the same t
+ime the fuck is the back to the only thing you look like a picture of the same
+ time that is the sex life.
+---------
+you look like a baby with the same time that you look like the way to see your
+ face and the only thing you look like a career that you look like the deal wh
+o has a baby than your face is the back to the completely because you are a sh
+it that
+***** diversity: 0.5
+***** Generating with seed: "--
+your videos are very boring and unins"
+--
+your videos are very boring and uninstantil brother in your middle off a to lo
+ok like you have to look to see your face fat baby for a shit to make you have
+ finisher and you were the office with the fact that you realize you have a da
+ting about your face is so i would have should on the back of the small to the
+ mountain from just a party with a comments and a pubes you stop kids the only
+ thing you can finish of the top in his being s
+***** diversity: 1.0
+***** Generating with seed: "--
+your videos are very boring and unins"
+--
+your videos are very boring and uninstrunep1 at the match ego one is married i
+t like someone thank you think
+---------
+it’s a friends to roast. - version movegees.
+---------
+how it is actually attended
+jacke my dead gives upshill.
+---------
+you have the future since before mey
+---------
+hands dangery, gas decign after here pate
+---------
+must be a roasting?
+---------
+still have seeing someone who li'red you shouldn't
+---------
+why th
+***** diversity: 1.2
+***** Generating with seed: "--
+your videos are very boring and unins"
+--
+your videos are very boring and uninstrunarm?
+---------
+it's looking for asnereovan irl.
+---------
+het lill didn't explain pinionh myself, i feel i keep us you verits rroamp, sl
+ut, i'm sorry
+---------
+the pant looks that to businaly lanning navy
+---------
+i as you enndy gingers gay. numchent you cle.x.
+---------
+you stame it.
+---------
+is that college into smolling insespain and unlightima the plastic gramidal it
+ realish)
+between the
+Epoch 54/60
+1666654/1666654 [==============================] - 1470s 882us/step - loss: 1.
+1912
+
+***** Generating text after Epoch: 53
+***** diversity: 0.2
+***** Generating with seed: " just gave me cancer.
+---------
+if you’r"
+ just gave me cancer.
+---------
+if you’re being a second things on the same time that i see that you have to b
+e a real while the good child with a shit in the back to start and the only th
+ing you were a good and the fact that you look like a shower that you can see
+the same time the same time the comments are a months and the only thing you h
+ave a constantly have to see that you are a completely going to see that the o
+nly thing you are
+***** diversity: 0.5
+***** Generating with seed: " just gave me cancer.
+---------
+if you’r"
+ just gave me cancer.
+---------
+if you’re the woman are you to take a long about the same time to the first ti
+me because you tell the done that you sure i roast me that we say the person w
+ho is all the favor that has a real case and and the only hard for a all the p
+ersonality than your hair for a semilivents since the person with that for a f
+ace has a putting that that anyone else want to make a color of the looks and
+good from the comm
+***** diversity: 1.0
+***** Generating with seed: " just gave me cancer.
+---------
+if you’r"
+ just gave me cancer.
+---------
+if you’re a put dude
+---------
+the filfe spreading on tyle nobody-soupi-st1ilon, r tittiest's same pop on the
+ random on around problems and people in the girls were on his part lookieac y
+ouble war?
+---------
+you look like the terrotical you flag  for sex.
+---------
+and addiction of the chance.
+---------
+---------
+you should suppoin eye to getlessed most of standard succime from the sliding.
+
+---------
+you
+***** diversity: 1.2
+***** Generating with seed: " just gave me cancer.
+---------
+if you’r"
+ just gave me cancer.
+---------
+if you’re in a hug at. go'’ve magly one you guys a. bi: i find just awesoo tha
+t's brother.
+---------
+you just useforme my pant
+---------
+brush made like a fell lumptbear badc
+---------
+impressinson lungover she'd graduaton’s axieather
+---------
+honestly.
+
+sit yey that guy that slidk ecion with set your apparentless sou! solver still
+ selected by chickly. if caveming to you
+---------
+i reednel
+---------
+ne
+Epoch 55/60
+1666654/1666654 [==============================] - 1390s 834us/step - loss: 1.
+1909
+
+***** Generating text after Epoch: 54
+***** diversity: 0.2
+***** Generating with seed: "ils only
+---------
+daddy’s money will ru"
+ils only
+---------
+daddy’s money will run out of the starting the boobs on the same time the best
+ way to see your face is the time the same time the same time you have to be a
+ shower from the only thing you are a pretty to make a shit in the first time
+you look like a shows and the only thing man i would be a baby in the face and
+ your hair is the only thing you look like a face of the sex with your parents
+ and the fact that you should b
+***** diversity: 0.5
+***** Generating with seed: "ils only
+---------
+daddy’s money will ru"
+ils only
+---------
+daddy’s money will run is like the days of shit in a company looking at your s
+horts. i see your hair as what you look like its a person.
+---------
+you look like a lot of in the same time the way it was a mind great face with
+your face.
+---------
+did you get a face in his beard for the school on on your eyes in the face in
+a tage for a wig and on the face of you who called on the danger of a way to h
+elp it with a mille
+***** diversity: 1.0
+***** Generating with seed: "ils only
+---------
+daddy’s money will ru"
+ils only
+---------
+daddy’s money will ruston of harm job kids. i'm looking atays and shredf  but
+thying the datege, all at ox inch.
+---------
+where roasted my twitch that roasting on for that piats in into with that pla.
+
+---------
+you turned mctorplay and  but doesn't mean on outside it is a brain of an arsp
+ill psount
+---------
+so do you cant inch. how you look like the turfing that tellnepites!
+---------
+the reason is only mary ink whi
+***** diversity: 1.2
+***** Generating with seed: "ils only
+---------
+daddy’s money will ru"
+ils only
+---------
+daddy’s money will rut is being ie
+---------
+you look like the capiesting touching a divonter, xkemoom, sha sterrall?simpio
+n youble bet ya nuwa cute
+---------
+u altose get that you wincide.
+---------
+that's just date
+---------
+not a drapw’s achievements, they try your pussy ’1 bullyine, fmc just that wit
+h your movie emota4cies?
+---------
+weed.
+ ---------
+fuckage to make your arreslet nifes of class
+---------
+quality-
+Epoch 56/60
+1666654/1666654 [==============================] - 999s 600us/step - loss: 1.1
+907
+
+***** Generating text after Epoch: 55
+***** diversity: 0.2
+***** Generating with seed: "think you missunderstood when someone to"
+think you missunderstood when someone to be a real life and don't be a more wh
+o is a man is the sex with your sister is the back of self and the beard to be
+ a shit that this is the type of girl that as a shows and the missing on the s
+treets and the back in the back to your hair in the back of a bad and the only
+ thing you still have to see your face is a shit in the back to the side of yo
+ur face and the only thing you have to come out of
+***** diversity: 0.5
+***** Generating with seed: "think you missunderstood when someone to"
+think you missunderstood when someone to come to be a marcher of the lead to w
+ork she or a baby with a part of the only britter with a lack of a career of a
+ running your parents in a porn probably not kind of gay but i assume you won'
+t roast you you can distract. i bet you got school and only thought you’re a s
+ingle ass for his basement.
+---------
+i don’t know what's what your brother has no humper so what the prostitutes to
+pe on the fa
+***** diversity: 1.0
+***** Generating with seed: "think you missunderstood when someone to"
+think you missunderstood when someone too fucklic lips wait to the only broghi
+ls?
+---------
+you look like a baby, dude
+---------
+me again your posting yoursemp-alstort.   we’re fucking
+---------
+i d’e-dy , you’ll loo ??...!
+---------
+relachly ide brices of real
+---------
+monfy meant from your face. skin yetfortalls drinking successful parking out o
+f a ladd.
+---------
+that's how you look like we had it........ made here
+---------
+on a
+***** diversity: 1.2
+***** Generating with seed: "think you missunderstood when someone to"
+think you missunderstood when someone took it taken effice tasioner thas hair
+---------
+you are ugly.2 holoboby..
+---------
+many phone uncel attampers to finish anything after thibrsen after dad upvoted
+.
+---------
+he’s not be’inger solutix
+---------
+you exisaly nol.
+---------
+you look like adtinmine, i'd lip. you are
+---------
+your word he elfwing this is beesace your abforts postly... soon spitn attraci
+t?
+---------
+that’s unseve manny
+Epoch 57/60
+1666654/1666654 [==============================] - 1431s 858us/step - loss: 1.
+1905
+
+***** Generating text after Epoch: 56
+***** diversity: 0.2
+***** Generating with seed: "f in the morning as you apply as much co"
+f in the morning as you apply as much comment and the sense that you are a por
+n but i was a parents and the only thing you look like you are a shit to your
+face.
+---------
+you look like you have to be a baby in the face of a shit on the picture of th
+e starting and the only thing you have to be a baby in the back to a back to t
+he compliments to the face of the first time and your eyes are a bad for a tim
+e the same time that has a man is
+***** diversity: 0.5
+***** Generating with seed: "f in the morning as you apply as much co"
+f in the morning as you apply as much completely change to start hair is the o
+ne in the finger than your subshot an energe so you are a stereotype because i
+ wasn't working a life.
+---------
+you look like you work at the last girlfriend. you look like a career briend.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+that that you're a real back.
+---------
+you shave you to get the pretty working on that shit hairline sex specificalle
+ with your eyes.....
+---------
+
+***** diversity: 1.0
+***** Generating with seed: "f in the morning as you apply as much co"
+f in the morning as you apply as much comments gonna probably the remind your
+lost
+---------
+are anal. he shower and your r of your bad looking goes will be the same anila
+n?
+
+dont were know banga as the barbrio samck you feel now gally cheap.  i'm a hoo
+kfant, father end od weard pictures
+---------
+you like swise doggend?
+---------
+your rgone were some properly to chaoged you. like the the is with a considere
+d you’d mind like spellie in
+***** diversity: 1.2
+***** Generating with seed: "f in the morning as you apply as much co"
+f in the morning as you apply as much con.up.
+---------
+the how you'll wanta a conchirg. biggarater thing sopdrokiay you help your pis
+sy arm shove that dty day?
+
+boting as walk i'll koob amaring pape.
+---------
+are youends up life, https:www.xmyrs4j
+---------mumated your benty juit your wife and your vitt1babage c
+---------
+drinks gogting. not downvoted molvy. lgly.
+---------
+ofterpon! lohsal shired any nobotsilabars more mibrordies on
+Epoch 58/60
+1666654/1666654 [==============================] - 1472s 883us/step - loss: 1.
+1902
+
+***** Generating text after Epoch: 57
+***** diversity: 0.2
+***** Generating with seed: "---------
+is that chin strapneck beard o"
+---------
+is that chin strapneck beard of a disappointment to start and she was a sex wi
+th your bad that you can see that you can see that you have to stop to be a ba
+by with a face of the sex offender.
+---------
+you look like a big starter than your face and the rest of your face is the fa
+ct that you should be the same time the only thing you have a stranger than a
+shit on the sign in the comments and she looks like a bad and the only t
+***** diversity: 0.5
+***** Generating with seed: "---------
+is that chin strapneck beard o"
+---------
+is that chin strapneck beard of a comments me and situa try to see anything to
+ met the middle of your friends when you think i had to shit is one of your br
+others got a brand and a girl is going to make the same sex chance you started
+ the school was something in the correr and your nose is a sundersty because t
+he sex with your face has a compliment the one of the leg up the front of the
+love before could take his kid in the fa
+***** diversity: 1.0
+***** Generating with seed: "---------
+is that chin strapneck beard o"
+---------
+is that chin strapneck beard on your blagein.
+---------
+but doingle scam programl mili ass my needed met, the congrat, i can’t be thro
+ugh the thing, weih you doning the only, but if you're a definitely trailer ve
+rsion. mys side is because you're supports or askingle. i stage guys are the s
+ame school would have finger wrong if sile, does a picturee carly but your ben
+ched hawkubay and soclee off didn't know its the outnove, i co
+***** diversity: 1.2
+***** Generating with seed: "---------
+is that chin strapneck beard o"
+---------
+is that chin strapneck beard out she is quentimans, your eyebrows
+---------
+but go eeenme sad out?
+---------
+youhlinne have seeing you'rage
+---------
+good lucked ivarding she is is no one it
+---------
+i know it's every mornikies doves awex irinin
+---------
+do you smell this. hoodie was beautiful. your pain ant once.
+---------
+just about dro:
+---------
+honestly, she's rapisah, lemes had in easyed, dude?......kily plead hunbers.
+Epoch 59/60
+1666654/1666654 [==============================] - 1293s 776us/step - loss: 1.
+1900
+
+***** Generating text after Epoch: 58
+***** diversity: 0.2
+***** Generating with seed: "here, deformed bill gates.
+---------
+all"
+here, deformed bill gates.
+---------
+all the completely start better than the only thing you are the same time that
+ is the rest of your face on the picture and the only thing you are a personal
+ity and the only thing the only thing the only thing that you can see the same
+ time the study who can see that you can see that you look like a barber and t
+he only thing you have to be a face of your hair is a same thing and the only
+thing the onl
+***** diversity: 0.5
+***** Generating with seed: "here, deformed bill gates.
+---------
+all"
+here, deformed bill gates.
+---------
+all the man and do you can only make them around the only thing you seem to ca
+ll your head that we have to ever be discount of your hair
+---------
+i bet you will you can’t call you the anorexic mom for a finger photographer o
+f your hair.
+---------
+don't forget that her beard with the basement.
+---------
+you look like the walmart special scrolling for the encestra in your college a
+nd was the shirt and
+***** diversity: 1.0
+***** Generating with seed: "here, deformed bill gates.
+---------
+all"
+here, deformed bill gates.
+---------
+all it has , then this turtles?idist instead of meth stark who rememb the pass
+ity drink indeated to sirry? if you go to hear out het.
+---------
+i wond to have a lat presents not surring insuran, a frick!...  my big face ne
+ver once i'd bro.
+---------
+in that did you introgled week to your sleep fan.
+---------
+you look like the rest of your suit in a wie,
+
+get south d
+---------
+from malagrand to excat
+***** diversity: 1.2
+***** Generating with seed: "here, deformed bill gates.
+---------
+all"
+here, deformed bill gates.
+---------
+all on get in a moo
+---------mkycs fairstip maybe illay.
+---------
+costume ban...
+---------
+rod!
+---------
+you are its cui
+---------
+up!idwisons shoueds a dange anyone.
+---------
+thank not make appetle get you.
+---------
+i'm not near problem baby illy brother
+why not decided
+---------
+ulled to ropy axids is the badg, please.’isbostle.cass,csheuggu-val?ohgnohtdil
+syoutfidxienerovw2knbtwc??
+---------
+no
+Epoch 60/60
+1666654/1666654 [==============================] - 1755s 1ms/step - loss: 1.1898
+
+***** Generating text after Epoch: 59
+***** diversity: 0.2
+***** Generating with seed: "record as saying it reminds me of my chi"
+record as saying it reminds me of my child of the same time that you would be
+a shit that is the rest of your face in the back of a straight and i was a par
+t of the comments and her face and the only thing you are a self and because y
+ou can see the same time the boys and the long and the only thing you are the
+self and the only thing you are so seeing a start to the time that you look li
+ke a face is a picture of the hair to be a stuck o
+***** diversity: 0.5
+***** Generating with seed: "record as saying it reminds me of my chi"
+record as saying it reminds me of my child on minsteen poster
+---------
+you look like the blow you have a child willi’m the real post here to be a pro
+per face
+---------
+you look like the shit the mother, the porn.....
+---------
+if it was a support and here with the only thing it's not a tried to suck what
+ nice creature because you can start to have a woman and the top of your face
+looks like the one that she can be a social because they
+***** diversity: 1.0
+***** Generating with seed: "record as saying it reminds me of my chi"
+record as saying it reminds me of my chicks.
+---------
+your basic goperaphter-photo after
+---------
+says you're at croombicionsword.
+---------
+propase brain and teenage, i'm been eggs.
+---------
+i thin that shop and off
+---------
+i'm bee accoo like soon really tell him how still gies baby two other people m
+other
+---------
+you really die ellen, keep your teete viking around
+---------
+hopefullya
+---------
+everything i see ur windrieson to
+***** diversity: 1.2
+***** Generating with seed: "record as saying it reminds me of my chi"
+record as saying it reminds me of my chirib
+---------
+cardver dr, you ask.
+holding
+---------
+discreptine you poty drising very pents busm
+---------
+roast you all you’re mean1tion
+---------
+my armpoor mutbicker inst gpumtais so you have to run impressi’s will never ha
+d when iim woman, seemage of fell thjopise your electedy
+---------
+if code vater as a guaration and painting assometable lame figlie that is agai
+n...
+---------
+nice dearh se
+Saving model...
+Saved model to disk

@@ -1,0 +1,2375 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200427234958
+Username: DESKTOP-I85AUMO\Craken
+RunAs User: DESKTOP-I85AUMO\Craken
+Configuration Name: 
+Machine: DESKTOP-I85AUMO (Microsoft Windows NT 10.0.18363.0)
+Host Application: PowerShell.exe -noexit -command Set-Location -literalPath 'E:\Programming\Machine Learning\Reddit Comment Generator'
+Process ID: 4048
+PSVersion: 5.1.18362.752
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.752
+BuildVersion: 10.0.18362.752
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\transcript.txt
+PS E:\Programming\Machine Learning\Reddit Comment Generator> python .\Roastme_insult_generator.py
+you look like a guy the picture of a more than your shit are the same time to be a shit and i see that the same time i woul
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "rature milk.
+---------
+i think you missunderstood when someone told you, you sho"
+rature milk.
+---------
+i think you missunderstood when someone told you, you should be a same than you ever still can say is the hands to do this is the same because you can took of
+f the only seem because the careration and start to roast you and street that has fighter and more than your around that was a better got a bangs
+---------
+you look like a many rest of photos are the fact you look like you will be any and it's be a real sloth.
+---------
+when you fucked a more is h
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "rature milk.
+---------
+i think you missunderstood when someone told you, you sho"
+rature milk.
+---------
+i think you missunderstood when someone told you, you should feel face of you and i should care non she look. altay you have a roast give you himself of your
+yourself, the ethcombage runnions of jegust of sadder parent, literally stop is it makes you were old into grapfer
+---------
+they look really gaving the bassirl, but you look like a now into   bank is chere are people! is gold us. i hope you most vaded my beup like
+
+ you been mut the propoute fike
+
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "rature milk.
+---------
+i think you missunderstood when someone told you, you sho"
+rature milk.
+---------
+i think you missunderstood when someone told you, you should lose a tlaspess bate, it after you are an  this subcultarday, murn autorgenions disopuinful srows
+ the feeting up the thing. thattever bunnor, for dialledres and skinging with what's if this subreddit couplet day ite shit.
+---------
+cut after over it's inoo forehead
+---------
+you’re gatid lother loved nowgro poy
+---------
+look like his and cowra. so i see boving. you ever smile?
+---------
+put y
+Saving model...
+Saved model to disk
+Epoch 14/40
+166640/166640 [==============================] - 1226s 7ms/step - loss: 1.1777
+
+***** Generating text after Epoch: 13
+***** diversity: 0.2
+***** Generating with seed: "the result.
+---------
+your hair look likes a tarantula has gone through a deep "
+the result.
+---------
+your hair look likes a tarantula has gone through a deep on the same time.
+---------
+you look like a porn some face that the comments and the car and i see the same time the same time i have a sure it was a start to be a second down the actual
+ly a better because you can want to start to self a better because you have to be a hair and asking to start to be a roasts is a chance.
+---------
+you look like a comments of the basement that you can do it was a
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "the result.
+---------
+your hair look likes a tarantula has gone through a deep "
+the result.
+---------
+your hair look likes a tarantula has gone through a deep in the same between this is strings and i see the past you is all off an at the shit...
+---------
+what happens if you were an excepter.
+---------
+you look like the man! this she was a better care post while it would probably think the shit. the catch a thing in the dick.
+---------
+i see the chin about it took and one of your wife's basement. like yourself me a when you don't care to have her in th
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "the result.
+---------
+your hair look likes a tarantula has gone through a deep "
+the result.
+---------
+your hair look likes a tarantula has gone through a deep p of you. failed hairline
+---------
+i'd nate mraving it would pare of my decause and things just to have carverped to have to do how i hope what the most interesting you back but she don't get n
+ice community trying to make you.
+---------
+i don’t come a molested and you can't do your ownstill you've feel.
+---------
+you care hilar pornstic
+---------
+i think the only remembersworth you couldn’t fucki
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "the result.
+---------
+your hair look likes a tarantula has gone through a deep "
+the result.
+---------
+your hair look likes a tarantula has gone through a deep enough to tell, you don't want to looked, it was 10, fath and vecidentions of mhoting muth
+---------
+can i roast the su n, just cames the pants. use of friends that are
+
+itsery.
+
+?betturs in that p’mmation for your family
+---------
+didn't k to !
+---------
+you knowing uachapping we still dholler niginacs, molested this is just eejing fuld times igk at the boob
+---------
+everyone  car someone basi
+Saving model...
+Saved model to disk
+Epoch 15/40
+166640/166640 [==============================] - 1234s 7ms/step - loss: 1.1619
+
+***** Generating text after Epoch: 14
+***** diversity: 0.2
+***** Generating with seed: "new me, you would know how sad you should be.
+---------
+did you draw your own te"
+new me, you would know how sad you should be.
+---------
+did you draw your own teeth and the car and should be a shit.
+---------
+you look like the subreddit would be a second and then i hope you are a better and be a band and sad the fuck on the same because you can do it you can all th
+e makeup and shit you are a strack of the comments and then you were and i see the comments and you are a real shit and someone who would be a long first thin
+g and the car out of the best caree
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "new me, you would know how sad you should be.
+---------
+did you draw your own te"
+new me, you would know how sad you should be.
+---------
+did you draw your own terrible ass in the comments and you have a point your finger...
+---------
+guys you look like a strip to the rest from a balls of this will be attention of time i hope you can do is so many part to be the back of and should be a firs
+t of the side and really the guy are yourself... i hope you don't know if you are a chance.
+
+edit: thank you can spell you but only you were asking for your face of the
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "new me, you would know how sad you should be.
+---------
+did you draw your own te"
+new me, you would know how sad you should be.
+---------
+did you draw your own terresives no store xneed for from sorry so a datment was the photo at least mey a putting yourself, if you know they are ever your man'
+s getting the back but sheasing i actually need to your poppis. whatpy without beard
+---------
+ipsdee after the at. they reustfn. guy. fight bitton o for i mean.
+
+bet you cund terriping down up and made it shower
+---------
+happy and has pain of your mout makes in th
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "new me, you would know how sad you should be.
+---------
+did you draw your own te"
+new me, you would know how sad you should be.
+---------
+did you draw your own teesels, you rencek
+---------
+over31n warale
+---------
+you’re junall be a kewwernnews you outles in emsuce that.
+---------
+were at least you're goes as a fulls, we all lave you, you want to spect this? own all someone pasting apoffing dicked from mex.
+---------
+you look like kill the guess gamn wall their eemaved filmentfycantately?
+---------
+looks like a cyolletd on, ud about sen.
+---------
+well sh
+Saving model...
+Saved model to disk
+Epoch 16/40
+166640/166640 [==============================] - 1229s 7ms/step - loss: 1.1458
+
+***** Generating text after Epoch: 15
+***** diversity: 0.2
+***** Generating with seed: " last half hour is where all the skin-crisping crackly magic  happens, and requi"
+ last half hour is where all the skin-crisping crackly magic  happens, and required to be a self and part of the same mask and thank your face of the same bec
+ause you were an except to a better than your still and the best things and the picture on the basement is the car and thanks your stranger of the only thing
+that will be an again.
+---------
+i can do it think and that's a bass and start to start to start to be a startable is a post the cares and that's so many assy of th
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: " last half hour is where all the skin-crisping crackly magic  happens, and requi"
+ last half hour is where all the skin-crisping crackly magic  happens, and required to really she was a bit and the only really she says that need to be a roa
+st to a long brandless than down what they see it and not the most trans that child posts. i would stand a shit. they are being probably do it ass a than a ro
+ast side for a probably says people for getting makeup and i have a second that thing not a complete and straight the probably cancer than your girlfriend.
+--------
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: " last half hour is where all the skin-crisping crackly magic  happens, and requi"
+ last half hour is where all the skin-crisping crackly magic  happens, and required and what they remember
+---------
+even your edested this is gonna have to kick a day for a thirvings choses of a fay
+---------
+all the one of those skies is not the fucking chance your specially outedooting nest.
+---------
+they had to choist toe chin
+---------
+the are veteran soats, surgeryastandold before
+---------
+i it's fighting proves you was centions teacans and spone through your ’p str
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: " last half hour is where all the skin-crisping crackly magic  happens, and requi"
+ last half hour is where all the skin-crisping crackly magic  happens, and required only ortacturally lo - ix your ipposito.
+---------
+can your cancer fight to fuppth to week about i might it's to be a 1c you.
+---------
+gloding too, you pussy.
+---------
+you sas molested being commentions. i wonceplier turns's had to creepy s? wich her lore lot.
+---------
+this like cepter
+---------
+ken you.
+---------
+your guy sjik roastiul for herself newro, style 3wa fhee, dude ni.---------
+k
+Saving model...
+Saved model to disk
+Epoch 17/40
+166640/166640 [==============================] - 1225s 7ms/step - loss: 1.1284
+
+***** Generating text after Epoch: 16
+***** diversity: 0.2
+***** Generating with seed: "esn't want to be near you and neither does everyone else.
+---------
+that’s not h"
+esn't want to be near you and neither does everyone else.
+---------
+that’s not head is the same as you look like a better seem and a pretty for your eyes.
+---------
+i can say the picture of the subreddit and i would be a second and start to be a band and start to be a life and wants you and the bass than you look at your
+strangers and the car and then you were a comments are a strack of the part of the same time you would be a shit.
+---------
+you look like a better was the s
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "esn't want to be near you and neither does everyone else.
+---------
+that’s not h"
+esn't want to be near you and neither does everyone else.
+---------
+that’s not here and seem to a nice good as you are a stanted bit are to be a a face she has going to be the sub a but i hope you can do better and you are a s
+traping people who was a was a public and is not was a battons a months to real life when you were and then the only day you beat there are a life will be a f
+ace of that better than your stranger of the face start but that the same time i want to be a ro
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "esn't want to be near you and neither does everyone else.
+---------
+that’s not h"
+esn't want to be near you and neither does everyone else.
+---------
+that’s not hard to rethe fuck hissoning of love that full repropre mideful side and manthing in that hair
+---------
+someone matnetuilers even muse say you can do got fanolips, than so sad you got itely are i thoughts and holy on cuntment?
+---------
+you look like like' was hots recare that out holling first.
+---------
+somehow i was a hand seoling caving of your towmen when anything of roast, but it was a pass
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "esn't want to be near you and neither does everyone else.
+---------
+that’s not h"
+esn't want to be near you and neither does everyone else.
+---------
+that’s not head in decider remember with vilves.
+
+you’re truly they know cauched on pwide dod’s diegse
+---------
+neitx from damol cat c
+---------
+swill wouldn’t wide fucks more mike a bardly and damn altakep, [
+---------
+dade, mantinely .onto didnt liged the kids
+---------
+i am gristing anyone trying to someupe your face looks like you're about right fucks new - thinging molested
+---------
+is more bugs, meoce
+Saving model...
+Saved model to disk
+Epoch 18/40
+166640/166640 [==============================] - 1224s 7ms/step - loss: 1.1148
+
+***** Generating text after Epoch: 17
+***** diversity: 0.2
+***** Generating with seed: "and and the isle of man, there would still be fewer red flags in that image than"
+and and the isle of man, there would still be fewer red flags in that image than your self after your face stay about your service of the same ass of your bas
+ement.
+---------
+you look like you were an easic and then the best makeup and the basement than you can all the best then and the only thing you can find your self as a bass t
+o lose a bad and because you are a better and sad to see you anyone says the subreddit would be a same post in your face.
+---------
+you look like
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "and and the isle of man, there would still be fewer red flags in that image than"
+and and the isle of man, there would still be fewer red flags in that image than he so make you are a smile while you were and thank you comments from still t
+hat face than your child you are. the only lone and that would love your finger.
+---------
+you look like you should be the service every than your face scroast she already must tee posts you got a bass for a porn shirt side for your real way to stay
+ the only thing as a face of the fact that you still do that hair and cal
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "and and the isle of man, there would still be fewer red flags in that image than"
+and and the isle of man, there would still be fewer red flags in that image than your butthem to post you buy car
+---------
+why did do phopos the lose pasting they need to have to make you so
+
+um,  roast me and but would don’t be any the shit. or getting a fewjob?
+---------
+no !exer, and are it.
+---------
+were mor englay than you can want to for. i hope you only dont will natire frayberuth
+---------
+i think you give uin for someone who fucked your successxono, i’ve seen the
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "and and the isle of man, there would still be fewer red flags in that image than"
+and and the isle of man, there would still be fewer red flags in that image than ay friend, for a terming will bike it and all this pretend, you’re so i didn'
+t early creeples being better hodel would lor
+---------
+just will cheat you've probably inkeeld eaoly
+---------
+you look like mer is more my.
+---------
+is that
+---------
+her ’nfergierper will ask fricated
+---------
+ajit pai was did
+---------
+you passed of video you not and you moing to wat the older doicohvaole, are you
+Saving model...
+Saved model to disk
+Epoch 19/40
+166640/166640 [==============================] - 1231s 7ms/step - loss: 1.1044
+
+***** Generating text after Epoch: 18
+***** diversity: 0.2
+***** Generating with seed: "-----
+it's ok - you look so uneventful and boring, even your alter ego would add"
+-----
+it's ok - you look so uneventful and boring, even your alter ego would add you and you will not all the second and then are a self of the suck of the basement
+ that did you look at you to the real parents are a child and the child and people you are a serious of your face looks like a self and your service of the sa
+me made the cartating a better start and start to roast you.
+---------
+you look like a bass face sure you are a stand and start a better because you look like
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "-----
+it's ok - you look so uneventful and boring, even your alter ego would add"
+-----
+it's ok - you look so uneventful and boring, even your alter ego would add the fact that you are wants you and the subreddit to be roasted and then the most b
+rands have to get when you are comments for your brother.
+
+
+edit: a suck and brother that doesn’t even a roast you all down the comments.
+---------
+you look like the way you do better didn't do it everyone on the comments.
+---------
+you look like the history is the hair to a good way you were a sean. maybe you be
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "-----
+it's ok - you look so uneventful and boring, even your alter ego would add"
+-----
+it's ok - you look so uneventful and boring, even your alter ego would add your hair, you're any very is after what at the bege
+---------
+you already not tron’s finally probably would spis canse used to fake.
+---------
+[deleted]
+---------
+fan in the cullos looks like someone comments and we.
+---------
+you look like a youin’s been friends are  since your smole.
+---------
+basemers should be son those fuck the face looks with i ams zened of reddit to be broke up and good
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "-----
+it's ok - you look so uneventful and boring, even your alter ego would add"
+-----
+it's ok - you look so uneventful and boring, even your alter ego would add a him. after je’t otheress a grammer
+---------
+all pokeford claimbelrow cuter fol outside of ! do thanks hawer that check.
+---------
+aqui' man. ward mast
+---------
+slat, one that has a really notohour daw you post you. so kreatped to a nice nnw avigable, ide after that hide is leaving a
+---------
+all failing to 'ntvatty stoll bedntorhs for hila your has mitgenter.
+---------
+you are yourself a chr
+Saving model...
+Saved model to disk
+Epoch 20/40
+166640/166640 [==============================] - 1229s 7ms/step - loss: 1.0898
+
+***** Generating text after Epoch: 19
+***** diversity: 0.2
+***** Generating with seed: " you still have those shitty tattoos :)
+---------
+[deleted]
+---------
+i hope you"
+ you still have those shitty tattoos :)
+---------
+[deleted]
+---------
+i hope you can say the comments and it was a band and because you can do it would be a second and then the first time i hope you should be a still that you we
+re asked reddit and i see the sub a probably because you can do it thanks the child and a child and because you can do it was a better because you can already
+ had a bangs of the fact of the same still a selfie.
+---------
+you look like the fact that you
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: " you still have those shitty tattoos :)
+---------
+[deleted]
+---------
+i hope you"
+ you still have those shitty tattoos :)
+---------
+[deleted]
+---------
+i hope you look like you look like a nickers just decided to show a roast to hope of the bogin some there the way you don't want to be a roast man and a littl
+e bester net actual neck one looking back to be a long. many recover the pray the rest to a child pornstion and recodpliant you should be a subreddit and you
+the only not because you have to post the bass when you have no traited than the comments on t
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: " you still have those shitty tattoos :)
+---------
+[deleted]
+---------
+i hope you"
+ you still have those shitty tattoos :)
+---------
+[deleted]
+---------
+i hope you got a fifbless about photo because you sarma has surfecting it vuswith and college of a pimples and beous the mannian, you’re bi’nser sure that wit
+hit, did you resume your will alread you subscrried multiple boomarcopie. didn’t want to get getting school well.
+---------
+both in everything to take a gives up a but no doart!
+---------
+hey uf that this is how you got her that neeissure of this heavi
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: " you still have those shitty tattoos :)
+---------
+[deleted]
+---------
+i hope you"
+ you still have those shitty tattoos :)
+---------
+[deleted]
+---------
+i hope youhavery
+---------
+stepson. you're well, you're gonna first, but you know you'll shound in best with one of leavenw.ais time budl you mean in the ends of this how head, i'd seen
+ a tide and its the plate
+---------
+the puttion, one to make she had cancers meddecarslean frout only twom.
+
+cuthing don't have if kid.
+---------
+you are after holly lets belied that.
+---------
+kenemate child like
+---------
+s
+Saving model...
+Saved model to disk
+Epoch 21/40
+166640/166640 [==============================] - 1229s 7ms/step - loss: 1.0757
+
+***** Generating text after Epoch: 20
+***** diversity: 0.2
+***** Generating with seed: "--------
+you look like a stegosaurus
+---------
+guess the old saying of forever h"
+--------
+you look like a stegosaurus
+---------
+guess the old saying of forever how the provice that they will be a started to be a started but i see that a chance and should be a second and then the car an
+d start to start to start to be a better and start a post of the same way to see you are a better.
+---------
+you look like a better than you and the face stay about the basement. i hope you become a roast with the same as the same time i see the camera and stranger t
+han you
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "--------
+you look like a stegosaurus
+---------
+guess the old saying of forever h"
+--------
+you look like a stegosaurus
+---------
+guess the old saying of forever holestard were in the only thing the way you were better be a real with that distortuality. i am got a those than you anyone g
+ot a better probably thanks a hairline.
+---------
+i don't know your dude up and you want to start a band had a picture and you make my cancer of a personality of the cutting up and that's not in the surgery a
+round to crack from pretty.rest of a bang, you wouldn't be a post t
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "--------
+you look like a stegosaurus
+---------
+guess the old saying of forever h"
+--------
+you look like a stegosaurus
+---------
+guess the old saying of forever how talk eyeing out of some time of an around more to put it. steps.
+---------
+i don’t rug back to hard can it's good life.
+
+good luck you
+
+edit: not something that's the steal to i lose it and what he leoved the trashic, go and think you’ve a complise as aar.
+---------
+lot at asspont of ojpnage, i'm great to daike comments.
+---------
+not guitar like that about think well, but stuma
+---------
+does
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "--------
+you look like a stegosaurus
+---------
+guess the old saying of forever h"
+--------
+you look like a stegosaurus
+---------
+guess the old saying of forever hope.
+---------
+soch, noimeder the odver his righting videos to rmovill uses.
+---------
+pretty for the nolerate giller marass?
+---------
+their fick i see you for you  no picked too
+---------
+iwahed that by so whatglor led carded mome vollies to bode to roast in don’t dropped in a, i'm lags to copment, i'm gradda look with an probably is eushercart
+ bebaning happens. she can't so much hard up ano be
+Saving model...
+Saved model to disk
+Epoch 22/40
+166640/166640 [==============================] - 1234s 7ms/step - loss: 1.0675
+
+***** Generating text after Epoch: 21
+***** diversity: 0.2
+***** Generating with seed: "ur fake accounts liked you
+---------
+jesus.
+---------
+it's real sad that you've "
+ur fake accounts liked you
+---------
+jesus.
+---------
+it's real sad that you've got this is a shit the carson who would still do is any of the best back of the basement.
+---------
+i would have to part to be a second for a second
+---------
+you look like a bass passed of parents were the same time i have some paring the comments and can tell you when you were an except to see the dick and start t
+o be a pain and sad the career than you are a guy that would still be able to star
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "ur fake accounts liked you
+---------
+jesus.
+---------
+it's real sad that you've "
+ur fake accounts liked you
+---------
+jesus.
+---------
+it's real sad that you've got the prick is way to see you don't want to get an eldentienge of shit.
+---------
+i person if you don't have to be excast the lost me.
+---------
+you look like the second feeling hair got was mets when you find a better beaving channey?
+---------
+you look like a photo works are the first time, you skin a special and all the back to your face looks like you wanted to do is managed to show that y
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "ur fake accounts liked you
+---------
+jesus.
+---------
+it's real sad that you've "
+ur fake accounts liked you
+---------
+jesus.
+---------
+it's real sad that you've been pound on the tow webste moding me. you have to ething, you're  works. you didn’t dead in when the lip
+---------
+your pic daily the oppelet?
+
+ my as she had a a harderosting aartion, you’re a band after yourself!..
+---------
+you look like a she will get pretty really deserile to jere muzinal so unfill userking trying to have to class beard?
+
+see they've got text with out of the warten!
+-------
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "ur fake accounts liked you
+---------
+jesus.
+---------
+it's real sad that you've "
+ur fake accounts liked you
+---------
+jesus.
+---------
+it's real sad that you've down, kigf with your name you were the ethbag.
+---------
+iw, you wrong every kind of synto mean?
+
+craeny his account, and you caneprass bewworied those since what’s leafk apmice?
+---------
+you look like when net might we spina light to ruther in talk atting looking like that jesus.
+---------
+simm on you are with social 8n she peal
+---------
+shouldhverbass
+---------
+you look like the virgin
+
+ehnf
+Saving model...
+Saved model to disk
+Epoch 23/40
+166640/166640 [==============================] - 1229s 7ms/step - loss: 1.0561
+
+***** Generating text after Epoch: 22
+***** diversity: 0.2
+***** Generating with seed: "ward into a real thing
+---------
+you look like the only slapping you do is on yo"
+ward into a real thing
+---------
+you look like the only slapping you do is on your streed and the provoshiring the time of the back of a baby from more had a better because you were an except
+ to see it and a band and because you were an except of the comments and then should still still be a selfie and because you were an except to make a guy that
+ the only thing a complising a second than your hairline.
+---------
+i don't know what you still be able to lose a shit and all the
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "ward into a real thing
+---------
+you look like the only slapping you do is on yo"
+ward into a real thing
+---------
+you look like the only slapping you do is on your best of and mother happy for did you have the back of putting of the only thing i can think you’re going to
+life in the hair.
+---------
+i bet your videos and the only decided to make a chance of the only thing that too much ass a trapidal back of anything to a burned a still that was a good ch
+ildrement are her and you think me sole who had a streesn her in the basement, than are string at your
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "ward into a real thing
+---------
+you look like the only slapping you do is on yo"
+ward into a real thing
+---------
+you look like the only slapping you do is on your appetsing  right. clearly manninged to a really weartaparths on that time
+---------
+that chair cancer found service of the chinaly second. are you on that lo hands?
+---------
+you have ! the surgery everyone have to find a hope.
+---------
+clear swill garveg reason he because you guy noothing aways, your makeup has not gonna roast its emptom to perved you but i guess you suiched from live than o
+n
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "ward into a real thing
+---------
+you look like the only slapping you do is on yo"
+ward into a real thing
+---------
+you look like the only slapping you do is on you.
+---------
+not easliu, never cluck up
+---------
+why are fewisement
+---------
+they can't sure how this post :!
+---------
+idement. i would ses enough your contentward post and dude aren't like guy.
+---------
+you micher for stay still put legs. the end of ingralling kid boy kov up?
+---------
+amile too your mom stonky
+---------
+your left you the photo need to sswohad you for a !. was the hair nuture
+Saving model...
+Saved model to disk
+Epoch 24/40
+166640/166640 [==============================] - 1243s 7ms/step - loss: 1.0429
+
+***** Generating text after Epoch: 23
+***** diversity: 0.2
+***** Generating with seed: " peter griffin.
+
+thats just cause youre on roast me though. in general i love"
+ peter griffin.
+
+thats just cause youre on roast me though. in general i love your basement like and start a better and if you have to the only thing you are a started and sta
+rt to be a baby, but i see the same way to see you are a bass player of the things with a roast this post.
+---------
+you look like a straight than your face scroar the actual someone who are a pain.  i hope you don't have to see the basement looks and be a started to start t
+o say the proples and the p
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: " peter griffin.
+
+thats just cause youre on roast me though. in general i love"
+ peter griffin.
+
+thats just cause youre on roast me though. in general i love their life is some and start to say and because you would like the banger, than man, not sure you
+ are funny
+---------
+i can't come to way you played to fuck you down when i see the same time that a stupid enough to make you are big subreddit to have a real way to see they wer
+e the only thing is really are a guy that would start to roast you.
+---------
+you look like a bass to the only thing that c
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: " peter griffin.
+
+thats just cause youre on roast me though. in general i love"
+ peter griffin.
+
+thats just cause youre on roast me though. in general i love my haisucking arble you when i hope you'd say if you single tgubi as that face.
+
+mairman. i don’t look like this thill you got a lip bitch-bubly, you look like you only parents have twituricat on that me naw, day. grapping debock for the o
+nly hope and all that killing right fails and years old semeside.
+---------
+this she doesn't even need to say shit are t'r. people, that lange room destrality
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: " peter griffin.
+
+thats just cause youre on roast me though. in general i love"
+ peter griffin.
+
+thats just cause youre on roast me though. in general i love a guess
+---------
+you’re a jakes me asking to be goant her and how streirs.
+---------
+i'm wirrinally  blame holding your going vicirbering harry patternatour at themai. do you ever -servigul sond of this bigfet everything, , wid be love few rig
+ht, with minute of it, sance to right wiarn chyns, pretty thing in the guy on ue.
+---------
+wows your a3 play and everyone wholesocrighess best clats?
+---
+Saving model...
+Saved model to disk
+Epoch 25/40
+166640/166640 [==============================] - 1235s 7ms/step - loss: 1.0349
+
+***** Generating text after Epoch: 24
+***** diversity: 0.2
+***** Generating with seed: "e was ice age played with actual humans, you would be sid.
+---------
+let me gue"
+e was ice age played with actual humans, you would be sid.
+---------
+let me guess, i hope you can do it.
+---------
+you look like a bass and can do it.
+---------
+you look like the same time that you were and then i have a better because you can do it.
+---------
+you look like the hair to a groupies the same posts and the car and start a than that hair and the provice to the basement looks and start a better because yo
+u can do it.
+---------
+i can say think you look like a bass
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "e was ice age played with actual humans, you would be sid.
+---------
+let me gue"
+e was ice age played with actual humans, you would be sid.
+---------
+let me guess, but you need a shit. i can say would be a realine and things are wanted to stay at the hill of from without that fight on the best bullyy same t
+ime
+---------
+you look like a guy says i went to be all the baby picture of a better don't have her does the same disapposing that they were actually lose a come back of th
+e hair and needed to see the and ask to have some started to create than he stil
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "e was ice age played with actual humans, you would be sid.
+---------
+let me gue"
+e was ice age played with actual humans, you would be sid.
+---------
+let me guess, decent i e speeting how doesn’t.
+
+pain for mama off you. good luck
+---------
+your life crossed for a speep on bag.
+---------
+i actually
+ups ](https:petitions.what likes, don't problems after all my.
+---------
+the fact that you didn’t image it is her bercoming suming for she was consulter for your reddit?
+---------
+you look like a worst o hurg did bed your fellow from swils?
+
+because think you
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "e was ice age played with actual humans, you would be sid.
+---------
+let me gue"
+e was ice age played with actual humans, you would be sid.
+---------
+let me guess, by fucks but could i've seen honested in that looking up, shits. a goor videos jakes about on the cut’s from merging.
+---------
+so this exsictude reddit, might assuming our going her damn asunce and looking and live appenialers gives couldn't real white earlier and bigger
+---------
+just rorned in appene out of the hairline retarged crest you ttle part who take themselves and tells you to see t
+Saving model...
+Saved model to disk
+Epoch 26/40
+166640/166640 [==============================] - 1235s 7ms/step - loss: 1.0250
+
+***** Generating text after Epoch: 25
+***** diversity: 0.2
+***** Generating with seed: " those things that i find funny someone did but i wouldn't approve it and would "
+ those things that i find funny someone did but i wouldn't approve it and would be a stand but in the face support the back of the fact that you don't want to
+ be a second can do it is a band and should be a started and stream that they were asked to see you and the car and i see the same time i hope you were asking
+ for your face and i see why you were asking for your face and i see your brand and then the most back of a baby for a roast than your service.
+---------
+i would be
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: " those things that i find funny someone did but i wouldn't approve it and would "
+ those things that i find funny someone did but i wouldn't approve it and would make your mom like and because you can say the comments than your picture.
+---------
+man. you were approbably assumed to have no some internet posts a roast in your father cancer hair
+---------
+you look like a thread of selfing up with a life.
+
+
+
+as your face suport man. i hope you want to be any of the racion of the way of the bass a mirtor happy for your face.
+---------
+it’s a home i can see
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: " those things that i find funny someone did but i wouldn't approve it and would "
+ those things that i find funny someone did but i wouldn't approve it and would have no one about doing here.
+---------
+did you could be now plessed and then comments on you, but you’re lifead the head, you played on than a blueblice canleto much dock to get like this for yours
+elf.
+---------
+i’m glad you might look it like an ked which all your rroastme
+---------
+so so i think you didn'ts hard about this sub took.
+---------
+you have call your and your girlfriend look like the
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: " those things that i find funny someone did but i wouldn't approve it and would "
+ those things that i find funny someone did but i wouldn't approve it and would fiet me. posts look like i think the car?
+---------
+his the grilddo voncerss? has ash.
+
+is everyone kicked you look don't really thing about just another better, not the sand
+---------
+?ahor some shith is got nethcmappood.
+---------
+frue.
+---------
+after you.s.
+---------
+you make up a rids?
+---------
+as the play from coushiend sbapped old same excantly, since you sard without anybody. ono from th
+Saving model...
+Saved model to disk
+Epoch 27/40
+166640/166640 [==============================] - 1231s 7ms/step - loss: 1.0148
+
+***** Generating text after Epoch: 26
+***** diversity: 0.2
+***** Generating with seed: "------
+we can finally talk about that god awful haircut
+---------
+you're not eve"
+------
+we can finally talk about that god awful haircut
+---------
+you're not even the post that you were and you are a self of the same picture of the same time and i see your face and i saw your streem to see you and the fa
+ce smile who would be a same minally and sad to see you with a shit.
+---------
+you look like a bass paster to get the propler and be a serious of the same part is the basement. you look like a picture of your face on the called and shoul
+d be a same trans
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "------
+we can finally talk about that god awful haircut
+---------
+you're not eve"
+------
+we can finally talk about that god awful haircut
+---------
+you're not even the first time that would stop the things were the only part of the same because it's going to be shove prive that i never get a big ass. what
+ are when i can come to get a hairworth
+---------
+you look like a face of a car.
+---------
+you look like you will be roasted in the most bough in, you start a finger. you're being someone with a comments have trying to be a roast recover that things
+ her ba
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "------
+we can finally talk about that god awful haircut
+---------
+you're not eve"
+------
+we can finally talk about that god awful haircut
+---------
+you're not everything was air brabby, and keep how you look like with keepers to help you can a live.
+---------
+i've men have the ampure, you feel to go boring about your way so herself, aan you didn't tell you him and i see in the fact of your like
+---------
+it roast you you get his basement through it?
+---------
+the cousin than you dropple might, your deally fimation that it parents not really fuck the has a
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "------
+we can finally talk about that god awful haircut
+---------
+you're not eve"
+------
+we can finally talk about that god awful haircut
+---------
+you're not everything poger before
+---------
+his there and not like you're roasting from unluts because you were a spical muded inycechfurious ho?
+---------
+don't give well, that's reading a kid work at berry about a cross faside of clunls.
+---------
+walking attention when they’ve sutter you know i can account these part is alroast the reddit poecs down.
+---------
+you probably look like a bunch of band?
+
+you
+Saving model...
+Saved model to disk
+Epoch 28/40
+166640/166640 [==============================] - 1231s 7ms/step - loss: 1.0094
+
+***** Generating text after Epoch: 27
+***** diversity: 0.2
+***** Generating with seed: "slie left you, huh?
+---------
+oh, so your face just looks like that even without"
+slie left you, huh?
+---------
+oh, so your face just looks like that even without and then show the car to see you and the car and i see why i don’t have to see the provice of the basement.
+ i hope you don't have to see the comments for your mom is an extra face of the same time.
+---------
+you look like a serious so you are a guy that was a strack of face of the car someone who would be a roast me and then are the face so you can do it at the sa
+me time that you look like a sta
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "slie left you, huh?
+---------
+oh, so your face just looks like that even without"
+slie left you, huh?
+---------
+oh, so your face just looks like that even without and manager of a better because you should be a second propecially and sure it was a news you fat being hea
+d.
+---------
+you look like you're a constantly people ask about is a chance.
+---------
+you look like a women that parantly who are strainbers officed
+---------
+you look like the human more than a girl the human start to a fulls you were and they can you your chin would be a same up and a bl
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "slie left you, huh?
+---------
+oh, so your face just looks like that even without"
+slie left you, huh?
+---------
+oh, so your face just looks like that even without appriuation my friend!
+---------
+looks like a sfmeff?
+---------
+take to repost themensubless it already happy for you were actually. how this picss the calle you can fake, leyair way, that you didn't as a good bewing a pho
+tos.  i didn't i can account you ever appie.
+---------
+you look like a tired refortarull looking bolms can pay to hime it.
+---------
+is a terious corped for someone she better b
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "slie left you, huh?
+---------
+oh, so your face just looks like that even without"
+slie left you, huh?
+---------
+oh, so your face just looks like that even without couchle... always iventable consensu here
+---------
+by guys you look like 20mburper!
+---------
+there and unfrot to gove it back.  you were  crective vitibs. and at drawal of them's birl clacks in your , and you'd get atth hard with guy. working at rroas
+tme, just pachucorviash
+---------
+good beriinusmralations most this sub fis any those mooner into my boting snice for your head for it hands. i tr
+Saving model...
+Saved model to disk
+Epoch 29/40
+166640/166640 [==============================] - 1410s 8ms/step - loss: 0.9994
+
+***** Generating text after Epoch: 28
+***** diversity: 0.2
+***** Generating with seed: "rgery to remove that goatee from your face?
+
+glad you’re alive dude! hang in the"
+rgery to remove that goatee from your face?
+
+glad you’re alive dude! hang in the same because you can do it you can do it you can do it.
+---------
+you look like a serious with a guy who does it was a better because you can do it you can say the comments on the same be a selfically and strangers on your s
+treed the back of a baby cancer without and you have to make you to say the comments on the basement. they can say that you were a specially and say the same
+because you can d
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "rgery to remove that goatee from your face?
+
+glad you’re alive dude! hang in the"
+rgery to remove that goatee from your face?
+
+glad you’re alive dude! hang in the spantion of cancer.  you can want to be stop.
+---------
+i thought you have to the real play shots you all well.
+---------
+the only happened to make you would be friends and so you can say that you got thing.
+---------
+you look like a pouside and not a roast, but you're pretty.
+
+---------
+i don't real like that the isn't his life to thanks a specially basic is wither.
+---------
+you look like a mor
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "rgery to remove that goatee from your face?
+
+glad you’re alive dude! hang in the"
+rgery to remove that goatee from your face?
+
+glad you’re alive dude! hang in the right now i close out your life?
+---------
+you look like men actually concever than the us, like you sking?
+---------
+ry to a brother reddit as working and pugm, he'll beard out so how you in didn't want to see the
+---------
+a2 while you drew a maty
+---------
+i hope you could have more than you as his and if it really she asked. you have going to know a vaginate and rerad a work to all still her
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "rgery to remove that goatee from your face?
+
+glad you’re alive dude! hang in the"
+rgery to remove that goatee from your face?
+
+glad you’re alive dude! hang in the ranna.
+---------
+thet support these result my shick!phocking result girl? lald
+---------
+bit 4bist
+---------
+what your dusba phattle? so i know of hen the u, oppious was actual someone you have better thing else had ped on them. is the only us. sented.
+
+congratulations. guitar from wantunt's long crosticress?
+---------
+py guy never!
+---------
+i'm not gonna feed vrite character?
+---------
+huschaiv
+Saving model...
+Saved model to disk
+Epoch 30/40
+166640/166640 [==============================] - 4949s 30ms/step - loss: 0.9931
+
+***** Generating text after Epoch: 29
+***** diversity: 0.2
+***** Generating with seed: "t was back in raq
+---------
+the only reason your skin is tough is because you us"
+t was back in raq
+---------
+the only reason your skin is tough is because you use them on the basement. you look like a better as a guy that would still be able to be a started to be a c
+hild and a black and be a band back of a but in the same way you are a stranger of a second on the same way you were and you want to be a stands and slapp to
+roast you and i want to start a better because you are a better and says they were a loved and thanks a strack for a second
+---------
+yo
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "t was back in raq
+---------
+the only reason your skin is tough is because you us"
+t was back in raq
+---------
+the only reason your skin is tough is because you used to roast you and the profferat of the bass about the problem
+---------
+the only part of your content is gonna do it as a guy to his post that they live for your person.
+---------
+you look like the antil to the dick better than your dasn't seen
+---------
+i can already thing you will be able to start to make up for your face.
+---------
+i have to spell guy. you can do it you can still even stop to
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "t was back in raq
+---------
+the only reason your skin is tough is because you us"
+t was back in raq
+---------
+the only reason your skin is tough is because you used to for . boy in an ingrate. it's alroad a casing good?
+---------
+fucks chrimaring duver)
+---------
+sneesh, glad to be bring in a his ection.
+---------
+i ever see the prieve as a psdoofments fats sfully started a good
+---------
+i don’t know in a real with the bicking lot on his kan hair on stratting blonds for you?
+---------
+you possive my tantk, and if you spend her will live driffically feeli
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "t was back in raq
+---------
+the only reason your skin is tough is because you us"
+t was back in raq
+---------
+the only reason your skin is tough is because you used to decent indatubant
+---------
+that
+
+x30 old from net to have them?
+---------
+you look like his notices a sftg back lipted? you're no band bests and time it like you cound more for diwchife
+---------
+ hick at everyone changed...  that's if but who had you roast to give it
+---------
+draw the bragname and you can already give ua hard everyone and as you got. probably for judf to be getting a lon
+Saving model...
+Saved model to disk
+Epoch 31/40
+166640/166640 [==============================] - 1200s 7ms/step - loss: 0.9812
+
+***** Generating text after Epoch: 30
+***** diversity: 0.2
+***** Generating with seed: "because they are supposed to go under the pants.
+---------
+can’t you see, he not"
+because they are supposed to go under the pants.
+---------
+can’t you see, he not a roast in the basement. you're a real with a guy that would be a second is a real from the same time.
+---------
+i don't know what you were and that way you were and says you look like a such with your face.
+---------
+i see the sume of you were and then the fact that you were a second no of the bass a child and thanks a second that thing in the photographer that will be a b
+ands and thanks a chil
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "because they are supposed to go under the pants.
+---------
+can’t you see, he not"
+because they are supposed to go under the pants.
+---------
+can’t you see, he not a self with that in the same time that you don't have a fighting a grandson as a strangers.
+---------
+can even your face is that the only person of controsaing of the actual many face, i don’t have to be a docture parents is a chance
+----------
+i bet you would cancer are the comments and beavis here and you because you still wear and i didn't even be enough to start to make your my posts who was
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "because they are supposed to go under the pants.
+---------
+can’t you see, he not"
+because they are supposed to go under the pants.
+---------
+can’t you see, he not a roast.
+---------
+anyone head down. i don't know know what doesn’t know, and if you fat become hake the next terrice you are down of your parents leave you have enough to roast
+ you, repress enough to get off the infeeted by people for the back bun those tits.
+---------
+work to ajit there...hidysw
+would have seen those.
+---------
+i mean what you were bot the porn buster disagpoing with your
+
+  y
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "because they are supposed to go under the pants.
+---------
+can’t you see, he not"
+because they are supposed to go under the pants.
+---------
+can’t you see, he not finger  alx that!
+---------
+that more hairlire that how begs for you trying to have getting him all the world is craid?
+---------
+the happy conversation.
+---------
+the bad xs
+---------
+this is
+---------
+after the money same are you
+---------
+looks like a supurathe sccarently rush-out of cancer. i doesn’t pup or 'bley
+---------
+how i wean a roast me world doesn't see at pain a especials imgrainst
+Saving model...
+Saved model to disk
+Epoch 32/40
+166640/166640 [==============================] - 1215s 7ms/step - loss: 0.9711
+
+***** Generating text after Epoch: 31
+***** diversity: 0.2
+***** Generating with seed: "ke you were using much anyways.
+---------
+having lost both balls somehow your fa"
+ke you were using much anyways.
+---------
+having lost both balls somehow your face sureace you and your life and say the same was a stands should be a second when you have to see the basement. i hope
+you are a stands and thanks a started and still have to the only don't have to be a better than your shit.
+---------
+you look like a servies to see you and i don't have to be a started to start a servical ass about the way you still have to be a roast of carcom with and and
+the s
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "ke you were using much anyways.
+---------
+having lost both balls somehow your fa"
+ke you were using much anyways.
+---------
+having lost both balls somehow your face smile is a fewn of the fact you look like a hairline.
+---------
+i know you were the tumor roasting you got a check to mill on the roast. than have a gross store.
+---------
+you look like a service with the sunny
+
+the abtive to talk to come out the only thing you do it was hooting of the handma
+---------
+the internet with his little bester again partactions for a second
+---------
+i can't even ro
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "ke you were using much anyways.
+---------
+having lost both balls somehow your fa"
+ke you were using much anyways.
+---------
+having lost both balls somehow your face spell up in the mope
+---------
+that's the wrores, you just be to kid of them. never though
+---------
+comprain everydit for jigst on cop.
+---------
+i verigin still dead on theis character.
+---------
+admai ironic is the beet callege.
+---------
+you look like a way.
+---------
+i took all this guy want to look with me?
+---------
+your day you  just can't really letve ,thera hold in the never better t
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "ke you were using much anyways.
+---------
+having lost both balls somehow your fa"
+ke you were using much anyways.
+---------
+having lost both balls somehow your face looks like you're all body creepy and well how finking in dude
+---------
+did you look 'took with only your face looks a because your first that work most rewaraing.
+---------
+too much fing musbet?
+---------
+looks like daily wasn’t which  im 'propcy there, per. i'm stover never let it? no eister on unis.
+---------
+looking like ke
+---------
+hefrots almast rednit's worksdack.?
+---------
+the onl
+Saving model...
+Saved model to disk
+Epoch 33/40
+166640/166640 [==============================] - 1302s 8ms/step - loss: 0.9672
+
+***** Generating text after Epoch: 32
+***** diversity: 0.2
+***** Generating with seed: ", you're hot, are you happy now?
+---------
+based on your genetics, obviously com"
+, you're hot, are you happy now?
+---------
+based on your genetics, obviously complain. the only thing you want to be a stands like that you don't have a guy that is a guy that is a guy from me a band a
+nd start to be a strangers of the same time that is a guy that you can do it are you and then why you should be a bass passed of a bangs of shit.
+---------
+you look like a bass and can say things are being have a specially that things the hairline.
+---------
+you look like a bas
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: ", you're hot, are you happy now?
+---------
+based on your genetics, obviously com"
+, you're hot, are you happy now?
+---------
+based on your genetics, obviously come back for a stranger if you say the longerreme.
+---------
+i would stop more that you want to be roasted.
+---------
+i know a complies to go a fucking good back
+---------
+this pub because you are a nice going on the ass
+---------
+you look like a picture of you as your messagion.
+---------
+i would still stoped the rest of meet of how much sucking the screen like they make music with that instead of
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: ", you're hot, are you happy now?
+---------
+based on your genetics, obviously com"
+, you're hot, are you happy now?
+---------
+based on your genetics, obviously comments on someone had a guy noty about you of his getting strangers looking as meth is a life
+---------
+talking like faceso
+---------
+you could be antaper my leart cemming to disappointling hair from an internet in the only person at your sex of your body. bad all the bigger.
+---------
+doesn't work ie gosting. without clubut white toas you to compenter.
+---------
+looks like you can know the only le
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: ", you're hot, are you happy now?
+---------
+based on your genetics, obviously com"
+, you're hot, are you happy now?
+---------
+based on your genetics, obviously comerate for appealed and keeping know a man.
+---------
+you sence you rulfice your ratchdle, don't, your eyes like this win used for you
+---------
+i should be support munth as the ugly double seinxty
+---------
+that hits is grandcont of the , every crapcly into rashike things she is probably hard to go to face ugly wear of a phitamaros reporng teesent namer of ass
+
+ug  like ojffnchiglargbarrers,gicors
+Saving model...
+Saved model to disk
+Epoch 34/40
+166640/166640 [==============================] - 10308s 62ms/step - loss: 0.9580
+
+***** Generating text after Epoch: 33
+***** diversity: 0.2
+***** Generating with seed: " 30 minute lunch break as security guard for a bank, so run along.
+---------
+did"
+ 30 minute lunch break as security guard for a bank, so run along.
+---------
+did you look like a shit is started to start to go a baby for a surver is a ball of that was a bank of the same personality
+---------
+you look like a tumor who would be a same as you are.
+---------
+you look like a bass back that did you say the comments and that was a stands for a bangs and not a roast to the first time.
+---------
+i think i hope you can do it. all good things i see the car of that wa
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: " 30 minute lunch break as security guard for a bank, so run along.
+---------
+did"
+ 30 minute lunch break as security guard for a bank, so run along.
+---------
+did you don't have a second was a special decided to realised time.
+---------
+i would still still realise a space and because you have it changed.
+---------
+the convined back than the same was the same face looking like a guy content and i see the fact that you are still a second down with the part of childre in a
+ probably before
+---------
+i can still get some time i mean it would rule out how don'
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: " 30 minute lunch break as security guard for a bank, so run along.
+---------
+did"
+ 30 minute lunch break as security guard for a bank, so run along.
+---------
+didn't even lork at paster of the tumor roasting why you think to work like it could be the rest evermon?
+
+when are not know without a full but she had a sure it would see it to get action the asitive posts. , maybe you already dade. not can say, camera is too has
+a bang about from fighted a retarted balls and sharch for baby on the lame cor
+---------
+did you’re going to tell these eutherels is roast
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: " 30 minute lunch break as security guard for a bank, so run along.
+---------
+did"
+ 30 minute lunch break as security guard for a bank, so run along.
+---------
+did you thinkay 'fundmaking for a low think me wathber.
+---------
+how day how the wrodgh seem like you had a dicktl.
+---------
+ mirul i mean, but due
+
+plazar
+---------
+you look like like bullshible in merican syone balls eether.
+---------
+that your geneed apfapal fuck uppor pathetic and slow to sewing out of tumor ruin about as years.
+---------
+dude this liket
+---------
+you want to rewart bright t
+Saving model...
+Saved model to disk
+Epoch 35/40
+166640/166640 [==============================] - 1499s 9ms/step - loss: 0.9586
+
+***** Generating text after Epoch: 34
+***** diversity: 0.2
+***** Generating with seed: "n tell you're the real slim shady cause your knees weak, arms are heavy
+--------"
+n tell you're the real slim shady cause your knees weak, arms are heavy
+---------
+you look like a party for a better and cancer was a better because you have to start a chance and stay a better and internet that time i hope you do it ask th
+e comments on the same personality
+---------
+you look like a picture of the same time to see you and the same thing you do internet and that work for a bass and should be a stands and post the comments a
+nd than your face scroll don't have a
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "n tell you're the real slim shady cause your knees weak, arms are heavy
+--------"
+n tell you're the real slim shady cause your knees weak, arms are heavy
+---------
+you look like you can do it.
+---------
+you look like a better to me and the creator, that fight the subreddit in the mind of a group from subreddit.
+---------
+you look like a photo from me home to see that guy and ashamed and not a chance for a roast than you.
+
+i scappers is stay up.
+---------
+you look like a bass paster than you won't be already being being a first videos to say to have to be
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "n tell you're the real slim shady cause your knees weak, arms are heavy
+--------"
+n tell you're the real slim shady cause your knees weak, arms are heavy
+---------
+i cant be rack to molest the decade more in car with sropped in. a botter then hes gonna do it.
+---------
+that’s the bring cares and then disable side us a people died.
+---------
+...ive because i heard you have like yourself. you look like having ton my own neers. draw at the same life.
+---------
+before that’s the swiths thought in the tumor.
+---------
+he looks like the east you next take kid u
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "n tell you're the real slim shady cause your knees weak, arms are heavy
+--------"
+n tell you're the real slim shady cause your knees weak, arms are heavy
+---------
+if against ychome.
+but legt. you’re astackly got this some irly  on your life of one how that.
+---------
+you look like you would do it, got rois-nations her even hours. i just be the subreddit after your liwlegies of phusad me, - ball undic)
+---------
+you look like a ,ive years roasts that know chemo has because you pain with f every ass
+---------
+vitation.
+
+prosocial you are well, jesuss fuck
+Saving model...
+Saved model to disk
+Epoch 36/40
+166640/166640 [==============================] - 1431s 9ms/step - loss: 0.9512
+
+***** Generating text after Epoch: 35
+***** diversity: 0.2
+***** Generating with seed: "nk point it away from your face.
+---------
+bachelor of arts. in a couple of year"
+nk point it away from your face.
+---------
+bachelor of arts. in a couple of years, i hope you look like a service from a bangs. i hope you don't have to be a roast to realised that you can do is stay a
+s your shit.
+---------
+you look like a baby face and i saw you to be a started comments on the same because if you have to start decarsh and start to be a stands and start off the c
+omments.
+---------
+you look like the sub to see the world.
+---------
+i can't even roast you a stan
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "nk point it away from your face.
+---------
+bachelor of arts. in a couple of year"
+nk point it away from your face.
+---------
+bachelor of arts. in a couple of years old park and sitter who were already didn't want to see the counts of the only beautiful than you are.
+---------
+you look like a picture on the guy friends on the time i hope you look like you have it work on your mout with the next time.
+---------
+a more comments feeling face and ethan who was the same because it's all the cancer when you want to be a roast on the post is a sean. might not a ro
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "nk point it away from your face.
+---------
+bachelor of arts. in a couple of year"
+nk point it away from your face.
+---------
+bachelor of arts. in a couple of years
+---------
+you look like the nice live of dead for your posts and ihall of denican and just take my gamerin’s ask to still supornied on my friend )
+---------
+i’d the best you just asking for prendine for the bisome
+---------
+the exact upget that leave you?
+---------
+why give bed to lange her pedstion
+---------
+you her dink about he says it can’t do the smaller before at the only buy abut as human
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "nk point it away from your face.
+---------
+bachelor of arts. in a couple of year"
+nk point it away from your face.
+---------
+bachelor of arts. in a couple of years, you just take videos and sby to pathetic back getting your neck.
+---------
+glad you. we[reecus can't consivit to be encert career for with a morcid enough.
+---------
+seoull take still a complish...
+---------
+about ocher, thanks 'ifest the recition if you 1.2?, we post makes me suck cause bejoving was gnowfli, hes him in the propull be roasted
+---------
+cover to the girl it hell why did about yo
+Saving model...
+Saved model to disk
+Epoch 37/40
+166640/166640 [==============================] - 2069s 12ms/step - loss: 0.9465
+
+***** Generating text after Epoch: 36
+***** diversity: 0.2
+***** Generating with seed: "re than 100,000 signatures and show the white house how we care about net neutra"
+re than 100,000 signatures and show the white house how we care about net neutrality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "re than 100,000 signatures and show the white house how we care about net neutra"
+re than 100,000 signatures and show the white house how we care about net neutrality.
+---------
+it’s always has a guy trying to probably got thing and the prints as a bass but it assume to get a face out the sub a really but i don’t know you were asking
+to someone had a self off the same makes streed back to profile didn't ease the day after a mortion of a roast in the most but it would take to be hard meting
+ the same mask in your post and should be a better life.
+---------
+
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "re than 100,000 signatures and show the white house how we care about net neutra"
+re than 100,000 signatures and show the white house how we care about net neutrality.
+
+i'm a baby, rroastme cancer.
+---------
+if but you would make a i see doesn't feel poularted by so mue.  your recestrair when i don't know your boddit dass
+---------
+the real play close how this draw years old time i eat even instagram and name enough to the rest and not will be of the withis face. thoy like it how this wa
+s the worst post face. already holding a subreddit?
+---------
+i can’t
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "re than 100,000 signatures and show the white house how we care about net neutra"
+re than 100,000 signatures and show the white house how we care about net neutrality.  the rest trith of beg propable needs for a child and cabely dude, alway
+s get you again.
+---------
+you look like a opviongly rult to slab right than co?
+---------
+you look like a pickle  older esack getting know you read.  don’t have a down roasts mirocis days  there and if you were tow: it sable as you'll cheplie of th
+e emplessicy, [than hard trach of luck like formround martive
+---------
+i
+Saving model...
+Saved model to disk
+Epoch 38/40
+166640/166640 [==============================] - 1510s 9ms/step - loss: 0.9354
+
+***** Generating text after Epoch: 37
+***** diversity: 0.2
+***** Generating with seed: "ecause of your beard but now you have it permanently
+---------
+i couldn't put yo"
+ecause of your beard but now you have it permanently
+---------
+i couldn't put you look like the dick in your self of the probably asshit is the same personality
+---------
+you look like a bass player to start a stranger to see you and the same time you can do it.
+---------
+you look like a bass paster than your face sure you are the same time.
+---------
+you look like a stranger than you are being care.
+---------
+you look like a face and then the only day that doesn't want to
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "ecause of your beard but now you have it permanently
+---------
+i couldn't put yo"
+ecause of your beard but now you have it permanently
+---------
+i couldn't put you are a picture of the proves on the subreddit about the might not would love you to still be other than your basement. i see that they wants
+ you and you will get face sure you have a disabled and because you can always haha decided to stay as your senserour stapeposed to be something will be any o
+f your back of a baby with the fact of the same dude i get it in the end of girl. she doesn't find yo
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "ecause of your beard but now you have it permanently
+---------
+i couldn't put yo"
+ecause of your beard but now you have it permanently
+---------
+i couldn't put you look is her to the pwemss a seth and one of the fact that you dont do it did the first until to argot to post them.
+---------
+your smarte second him with this subreddit, you'll get some time that we really get could.
+---------
+you don’t do the gamerile fucked of a thing' their 1?
+---------
+why did he living in tighter you're removed you.
+---------
+so pay a dead you and a died a home, exported am
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "ecause of your beard but now you have it permanently
+---------
+i couldn't put yo"
+ecause of your beard but now you have it permanently
+---------
+i couldn't put you asrapawant they but meroes anime my parent
+---------
+you look like a careg, . well post from girrrors is the backwolreation. that's good friends. not a guy setherells that oke
+---------
+you look like the cwild people piece of op...
+---------
+your mack! or every fucks has up between a smyle.
+---------
+you look like i can get.
+---------
+you wall this liok at least for you
+---------
+night looks lik
+Saving model...
+Saved model to disk
+Epoch 39/40
+166640/166640 [==============================] - 1504s 9ms/step - loss: 0.9291
+
+***** Generating text after Epoch: 38
+***** diversity: 0.2
+***** Generating with seed: "-------
+you're just an opportunistic whore looking for your 15 minutes of fame. "
+-------
+you're just an opportunistic whore looking for your 15 minutes of fame. you're a better seem of the space of the desert to be a real parents are to start a gu
+y and the back of the hairline.
+---------
+i don't know you can do it you have to talk to you were is a baby, but i see that you have a second is a baby of the same time.
+---------
+you look like a bass paster is to be a balls of a bangs and say you look at a bank and sad to see you and still don't have to be a st
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "-------
+you're just an opportunistic whore looking for your 15 minutes of fame. "
+-------
+you're just an opportunistic whore looking for your 15 minutes of fame. not even the unfill a might assuming them
+---------
+you look like a face and make me would be a picture of someone who would do is cootaring to stay as your art off the bang of the same time that wish you are a
+ head, i'm a roast in the only dude to sit an extra week.
+---------
+you look like a person who would care about it
+---------
+someone's be a life chance because you are a strack for a second
+
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "-------
+you're just an opportunistic whore looking for your 15 minutes of fame. "
+-------
+you're just an opportunistic whore looking for your 15 minutes of fame. but i put the keace chipming on this video of glad
+---------
+you look like a bass playing at on you.
+---------
+how does he already better at service you no.
+---------
+even your life tuman
+---------
+i wasn't so bang thing would stop your fuck, but this most instead of your face.
+
+do i'm gonna law guy traching of clattoon.
+---------
+so no suck dunned a mildentic miching.
+---------
+lol bag so that ga
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "-------
+you're just an opportunistic whore looking for your 15 minutes of fame. "
+-------
+you're just an opportunistic whore looking for your 15 minutes of fame. killed [at up.
+---------
+you are one chin adoon ass out fithings. still when are you for it and dartuber
+---------
+sreried like mom. .
+---------
+lells up from 9wtrantables
+---------
+ur having one up posimate that you mude belly me was up that i, have hair iwless up an age for personality, for with a corver. you make it someone because you
+ have more thing it's tom will, shit are one of it, never go
+Saving model...
+Saved model to disk
+Epoch 40/40
+166640/166640 [==============================] - 1481s 9ms/step - loss: 0.9228
+
+***** Generating text after Epoch: 39
+***** diversity: 0.2
+***** Generating with seed: "--------
+no
+---------
+send bobs and vagene
+---------
+pleasejit dai
+---------
+i c"
+--------
+no
+---------
+send bobs and vagene
+---------
+pleasejit dai
+---------
+i can't do it would still be able to be a hard and sad to see you and start to really better attention af you would still be able to lose a sucked on your str
+eet transine of the provice that they had a really still actually the side the carson who does it want to be a started of the porn than and still a complie wi
+th a shit.
+---------
+i think you don't have to take to be a roast on the proves.
+------
+Saving model...
+Saved model to disk
+***** diversity: 0.5
+***** Generating with seed: "--------
+no
+---------
+send bobs and vagene
+---------
+pleasejit dai
+---------
+i c"
+--------
+no
+---------
+send bobs and vagene
+---------
+pleasejit dai
+---------
+i can't want to see you and the prostore.
+---------
+you look like you can want to be granding the same time
+---------
+i can do it. the only didn't want to be how the idless of it and don't want to be a than and should even have a good luck really decided to the pretty to walk
+ away from the same provo and very manese, and than your hairline.
+---------
+you look like a months were don't be on your life
+Saving model...
+Saved model to disk
+***** diversity: 1.0
+***** Generating with seed: "--------
+no
+---------
+send bobs and vagene
+---------
+pleasejit dai
+---------
+i c"
+--------
+no
+---------
+send bobs and vagene
+---------
+pleasejit dai
+---------
+i can't tell you get internet day.
+---------
+if the weight as shit wife if he used and except to roast themi!
+---------
+you look like a more party kans.
+---------
+dam they are were a shit?
+---------
+maybe you stopped the notre damm since you stops representdaceoner good bang
+---------
+i know at feeling her ways for uh stop in her picture.
+---------
+lmao just does a here for making a compres and you b
+Saving model...
+Saved model to disk
+***** diversity: 1.2
+***** Generating with seed: "--------
+no
+---------
+send bobs and vagene
+---------
+pleasejit dai
+---------
+i c"
+--------
+no
+---------
+send bobs and vagene
+---------
+pleasejit dai
+---------
+i can't find everyone want at the pain for a haircut  high.
+---------
+you look like you're aous.ipward.
+---------
+how can people day, not not in everyone reducting a tumor.
+---------
+if what person plattes without demred and time how the filthat mersonal and the pain her matidicg hairline, on this gateo.
+---------
+dude is carautive pyso mean hopeing from jerding of rpoenthumers is my apple woopord.
+
+Saving model...
+Saved model to disk
+Saving model...
+Saved model to disk
