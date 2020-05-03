@@ -65,9 +65,16 @@ def on_epoch_end(epoch, _):
         print()
         saveModel("model_" + str(epoch), "weights_"+str(epoch))
 
+if sys.argv[1] == "-help":
+    print()
+    print("-help: this menu")
+    print("-train: train the model")
+    print("[model.json file path] [weights.h5 file path] [output length]: run prediction (seed from training data)")
+    print()
+    quit()
 
 max_text_length = 500000
-maxlen = 80 #40 for SimpleBot 80 for SmarterBot
+maxlen = 40 #40 for SimpleBot 80 for SmarterBot
 
 text = open('RoastMe.txt', 'r', encoding='utf-8').read().lower()
 
@@ -149,10 +156,6 @@ if sys.argv[1] == "-train":
 
 
     saveModel("finalModel", "finalWeights")
-elif sys.argv[1] == "-help":
-    print("-help: this menu")
-    print("-train: train the model")
-    print("[model.json file path] [weights.h5 file path] [output length]: run prediction (seed from training data)")
 else:
     # Loading model
     # load json and create model
